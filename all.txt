@@ -85,7 +85,6 @@ TVBS新闻,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
 民視新闻1,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视新闻2,p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
-壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 壹新闻,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
 年代新闻1,http://192.200.97.98:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 年代新闻2,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
