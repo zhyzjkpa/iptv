@@ -21,7 +21,7 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 新华网络电视,http://livecdn1.news.cn/cnccn/manifest.m3u8
 CCTV-4 中文国际美洲,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 CCTV-4 中文国际欧洲,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-CGTN HD,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+CGTN HD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 CGTN SD,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN Documentary,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 浙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
