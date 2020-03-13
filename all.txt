@@ -1,10 +1,9 @@
 0,#genre#
 央视新闻,https://pl.live.weibo.com/alicdn/b7e02f08ef2a457d3669024ec9eb7a82_6M.m3u8
-中天新闻Y,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1583935244/ei/rJpoXtrYNsHG4gLCr5GQDA/ip/140.238.20.51/id/wUPPkSANpyo.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5mlrn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mm/44/mn/sn-a5mlrn7d/ms/lva/mv/u/mvi/0/pl/22/dover/11/keepalive/yes/fexp/23842630/mt/1583913134/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ADKhkGMwRQIhAI6rQVk1GzC9YvBDdYVn1_nyuLEsuR_E6GkEXGCakFh7AiAjBSd3i77zep82LGJvZf6uMwCtcrvlRf1Ezm8nWtK0ig%3D%3D/lsparams/hls_chunk_host,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRQIgAmxxqufySaQSBl9Obuy6qDHqMe1zWB_qj5cmIiqXPzwCIQC1uum7Hm5v52fsHbdWePG_hoQrKQw1GaYY0WROMqCTpg%3D%3D/playlist/index.m3u8
 CCTV 13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV13 标清,http://gslbserv.itv.cmvideo.cn:80/000000001000/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6918130250570453526&owchid=ystenlive&owsid=7951969344461137026
+CCTV 13SD,http://gslbserv.itv.cmvideo.cn:80/000000001000/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6918130250570453526&owchid=ystenlive&owsid=7951969344461137026
 CCTV 1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV 3,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
