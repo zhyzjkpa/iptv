@@ -40,6 +40,11 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 辽宁卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 重庆卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+今日俄罗斯,p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
+CNNHDP,p2p://lino.homeunix.com:6007/59fd16db000b5f05026dc5a57b516fdb.ts
+CnnNewsP,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+BBCHDP,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
 鳳凰衛視資訊台,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 凤凰中文台P,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
 凤凰资讯台P,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
@@ -51,6 +56,7 @@ TVB新闻,http://hls.globaliptv.ml/tvbnews.php
 有线新闻2,http://221.229.210.60:8081/icabnews
 有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 有线财经资讯★,http://wowgua.com/live/channel_108.m3u8
+now新聞台,http://wowgua.com/live/channel_332.m3u8
 东网新闻,https://streama-news2.on.cc/src/remote1_hd.smil/playlist.m3u8
 东网直播,https://stream-sd2.on.cc/src/smil:remote1_hd.smil/playlist.m3u8
 香港01,https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
@@ -93,8 +99,3 @@ TVBS新闻P,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 新唐人休斯頓台,https://live.ntdimg.com/htlive480/playlist.m3u8
 RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
-VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-今日俄罗斯,p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
-CNNHDP,p2p://lino.homeunix.com:6007/59fd16db000b5f05026dc5a57b516fdb.ts
-CnnNewsP,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-BBCHDP,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
