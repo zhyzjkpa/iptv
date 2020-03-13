@@ -19,12 +19,6 @@ CCTV 14,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 CCTV 15,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-新华网络电视,http://livecdn1.news.cn/cnccn/manifest.m3u8
-CCTV-4 中文国际美洲,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
-CCTV-4 中文国际欧洲,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-CGTN HD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-CGTN SD,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN Documentary,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 浙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 北京卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 湖南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -46,50 +40,49 @@ CGTN Documentary,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 辽宁卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 重庆卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-天津卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
-吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-山西卫视 HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
-陕西卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
-云南卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-甘肃卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-宁夏卫视 SD,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-青海卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-西藏卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-新疆卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
-内蒙古卫视 SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-兵团卫视 SD,http://ivi.bupt.edu.cn/hls/bttv.m3u8
-康巴卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-海峡卫视 SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
-有線新聞台 SD,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-无线新闻台,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 鳳凰衛視資訊台,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-壹新闻★,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+凤凰中文台P,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
+凤凰资讯台P,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
+TVB新闻1P,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+TVB新闻2P,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+TVB新闻3P,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 TVB新闻,http://hls.globaliptv.ml/tvbnews.php
+有线新闻1,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+有线新闻2,http://221.229.210.60:8081/icabnews
+有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 有线财经资讯★,http://wowgua.com/live/channel_108.m3u8
-有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 东网新闻,https://streama-news2.on.cc/src/remote1_hd.smil/playlist.m3u8
 东网直播,https://stream-sd2.on.cc/src/smil:remote1_hd.smil/playlist.m3u8
 香港01,https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 NationalGeographic★,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 NationalGeographicPeople★,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-寰宇新闻台,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻2台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
-中天新闻1,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
-中天新闻2,p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
-中视新闻,p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
+民视P,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
+华视P,p2p://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
+中视P,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
+台视新闻台 HD,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
+寰宇新闻1台P1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+寰宇新闻1台P2,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+寰宇新闻2台P,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
+中天新闻1P,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
+中天新闻2P,p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
+中视新闻P,p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
 東森新闻1,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森新闻2,http://221.229.210.60:8083/ettvnews
-東森新闻3,p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
-TVBS,p2p://lino.homeunix.com:6007/59fd20d3000f24fd0294b75f4a555e2a.ts
-TVBS新闻,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
-三立新闻1,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
-民視新闻1,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新闻2,p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
-壹新闻,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
-年代新闻1,http://192.200.97.98:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-年代新闻2,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
-非凡新闻,p2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
+東森新闻P,p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
+TVBSP,p2p://lino.homeunix.com:6007/59fd20d3000f24fd0294b75f4a555e2a.ts
+TVBS新闻P,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
+三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+三立新闻1P,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
+三立新闻2P,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
+民視新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视新闻P,p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
+壹新闻★,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+壹新闻1P,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
+壹新闻2P,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+年代新闻,http://192.200.97.98:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+年代新闻P,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
+非凡新闻1P,p2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
+非凡新闻2P,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
@@ -101,21 +94,7 @@ TVBS新闻,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-民视,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
-华视,p2p://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
-中视,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
-非凡新闻,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-三立新聞,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
-無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-互动新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
-互动新闻备,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
-台视新闻台,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
-寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-台视新闻台 HD,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
-壹電視新聞臺,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-凤凰中文台,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
-凤凰资讯台,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
 今日俄罗斯,p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
-CNNHD,p2p://lino.homeunix.com:6007/59fd16db000b5f05026dc5a57b516fdb.ts
-CnnNews,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-BBCHD,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
+CNNHDP,p2p://lino.homeunix.com:6007/59fd16db000b5f05026dc5a57b516fdb.ts
+CnnNewsP,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+BBCHDP,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
