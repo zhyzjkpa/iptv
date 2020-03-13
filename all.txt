@@ -27,6 +27,7 @@ NationalGeographic★,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 NationalGeographicPeople★,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 13SD,http://gslbserv.itv.cmvideo.cn:80/000000001000/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6918130250570453526&owchid=ystenlive&owsid=7951969344461137026
+ZHYZ,#genre#
 CCTV 1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV 3,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
