@@ -69,8 +69,6 @@ CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
 ZHYZ,#genre#
-电竞,http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
-农业致富,http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
 Newtv爱情喜剧,http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
 Newtv动作电影,http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
 Newtv古装剧场,http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
