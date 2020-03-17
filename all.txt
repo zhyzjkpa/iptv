@@ -5,9 +5,19 @@ CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 民視新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人休斯頓台,https://live.ntdimg.com/htlive480/playlist.m3u8
+RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 13SD,http://gslbserv.itv.cmvideo.cn:80/000000001000/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6918130250570453526&owchid=ystenlive&owsid=7951969344461137026
-ZHYZ,#genre#
 CCTV 1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV 3,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
@@ -46,20 +56,21 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 重庆卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 天津卫视,http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-今日俄罗斯,p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
-鳳凰衛視資訊台,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-凤凰资讯台P,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
-新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
-新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
-新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
-新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
-新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人休斯頓台,https://live.ntdimg.com/htlive480/playlist.m3u8
-RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
+CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
+吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+内蒙古卫视,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+陕西卫视,http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+青海卫视,http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
+ZHYZ,#genre#
+电竞,http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
+健康有约,http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
 动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
 明星大片,http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
 金牌综艺,http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
@@ -76,20 +87,6 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 军事评论,http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
 农业致富,http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
 搏击,http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
-电竞,http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
-健康有约,http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
-吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-内蒙古卫视,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-陕西卫视,http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-青海卫视,http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
 Newtv爱情喜剧,http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
 Newtv动作电影,http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
 Newtv古装剧场,http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
