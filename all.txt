@@ -4,11 +4,38 @@ CCTV 13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+CNN,http://ott-cdn.ucom.am/s27/index.m3u8
+cnn usa,http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+BBC,http://ott-cdn.ucom.am/s24/index.m3u8
+France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+Deutsche Welle,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+有线新闻1,https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
+now新聞台★,http://teslagram.com/live/channel_332.m3u8
+now直播台★,http://teslagram.com/live/channel_331.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
+寰宇新聞2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8
+壹新聞2,https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/media.m3u8
+日本24小时新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+TBS NEWS,http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
+NTV NEWS,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+陽光衛視,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+Olympic Channel,https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+Olympic Channel 2,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
+RFI,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
