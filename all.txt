@@ -3,50 +3,17 @@ JKPA,#genre#
 CCTV 13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-CTINewsYoutube,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585376875/ei/C5p-XrSgB7zZ-gbalIboCA/ip/116.86.86.61/id/wUPPkSANpyo.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-nu5gi0c-npod.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13330/mh/R3/mm/44/mn/sn-nu5gi0c-npod/ms/lva/mv/m/mvi/0/pl/18/dover/11/keepalive/yes/mt/1585355175/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJpPlLswRAIgEdvjfZ2WzJMz4D_jeTi2WR_N4CUFQZwXrO26ISBrniQCIGPSvRfwqh4DefNOL7W4NF5SwNPws7l4gU7IokZd3PW4/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIhALolXuI9c216oEgvyDX6w1_9Ncbp8W5hdmtW-cSSULPcAiAy-BzZ2TP8yogxNbH6v4vZFzHUTm6Usz6ks0xzS7bGbA%3D%3D/playlist/index.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 CNN,http://ott-cdn.ucom.am/s27/index.m3u8
 NBC,http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
 cnn usa,http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 BBC,http://ott-cdn.ucom.am/s24/index.m3u8
-Euronews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 Deutsche Welle,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 TRT World,https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-AfricaNews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
-8TV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/.8TV.m3u8
-AFR7.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
-Afrm.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Afrm.m3u8
-BNC.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/BNC.m3u8BNC.m3u8
-CNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
-CRTV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTV.m3u8
-CRTVN.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
-CTINews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
-CTSNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
-CTVNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
-Cliv.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Cliv.m3u8
-DramaSangat.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-EBCNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
-Ebru.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Ebru.m3u8
-EuroNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-K24.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
-KBSWorld.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KBSWorld.m3u8
-KTNF.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KTNF.m3u8
-LCP.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
-NTV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV.m3u8
-NTV7.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-PSenat.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Public_Kannda.m3u8
-Public_Kannda.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/
-StarL.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/StarL.m3u8
-TTVNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
-TV3.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
-TV9.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-ThalithaA3.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8
-WFA.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WFA.m3u8
-YOPNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/YOPNews.m3u8
 加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -134,3 +101,35 @@ CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
+YOUTUBE,#genre#
+AfricaNews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+8TV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/.8TV.m3u8
+AFR7.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
+Afrm.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Afrm.m3u8
+BNC.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/BNC.m3u8BNC.m3u8
+CNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
+CRTV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTV.m3u8
+CRTVN.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
+CTINews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
+CTSNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+CTVNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+Cliv.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Cliv.m3u8
+DramaSangat.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+EBCNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+Ebru.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Ebru.m3u8
+EuroNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+K24.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
+KBSWorld.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KBSWorld.m3u8
+KTNF.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KTNF.m3u8
+LCP.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+NTV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV.m3u8
+NTV7.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+PSenat.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Public_Kannda.m3u8
+Public_Kannda.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/
+StarL.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/StarL.m3u8
+TTVNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+TV3.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+TV9.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+ThalithaA3.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8
+WFA.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WFA.m3u8
+YOPNews.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/YOPNews.m3u8
