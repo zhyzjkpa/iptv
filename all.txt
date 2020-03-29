@@ -3,6 +3,27 @@ JKPA,#genre#
 CCTV 13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+有线新闻1,https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
+无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+無綫新聞HD,http://61.93.125.49:9981/stream/channel/18c131666a2f9c7f212351ea778675d3?profile=webtv-vp8-vorbis-webm
+無綫財經·資訊,http://61.93.125.49:9981/stream/channel/8fee7c8b98145fcdab4bf626bd0fb58b?profile=webtv-vp8-vorbis-webm
+ViuTVsix,http://61.93.125.49:9981/stream/channel/59c4bda680db931ffb52d13a9013f2f9?profile=webtv-vp8-vorbis-webm
+翡翠台,http://61.93.125.49:9981/stream/channel/6bfd087e66dbeab495dfa7a74c45cb89?profile=webtv-vp8-vorbis-webm
+開電視,http://61.93.125.49:9981/stream/channel/5b111166230d42fd6efd0ce2a224ab59?profile=webtv-vp8-vorbis-webm
+香港國際財經台,http://61.93.125.49:9981/stream/channel/cecbcae0c6c7ab1ec1a493a6be121a93?profile=webtv-vp8-vorbis-webm
+now新聞台★,http://teslagram.com/live/channel_332.m3u8
+now直播台★,http://teslagram.com/live/channel_331.m3u8
+港台電視31,http://61.93.125.49:9981/stream/channel/aec8b89b755c4ddfcedab02c54a2e5d3?profile=webtv-vp8-vorbis-webm
+港台電視32,http://61.93.125.49:9981/stream/channel/7cd6dd68e5438718a1f412e018380c77?profile=webtv-vp8-vorbis-webm
+港台電視33,http://61.93.125.49:9981/stream/channel/2bae74bcf0b233c29621721b0f4a57b1?profile=webtv-vp8-vorbis-webm
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
+寰宇新聞2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8
+壹新聞2,https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/media.m3u8
 CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 CNN,http://ott-cdn.ucom.am/s27/index.m3u8
 NBC,http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
@@ -18,18 +39,6 @@ Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97
 Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻1,https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
-now新聞台★,http://teslagram.com/live/channel_332.m3u8
-now直播台★,http://teslagram.com/live/channel_331.m3u8
-三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
-寰宇新聞2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
-年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8
-壹新聞2,https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/media.m3u8
 SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 TBS NEWS,http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 NTV NEWS,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
