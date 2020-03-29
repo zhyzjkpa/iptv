@@ -9,6 +9,7 @@ CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 無綫新聞HD,http://61.93.125.49:9981/stream/channel/18c131666a2f9c7f212351ea778675d3?profile=webtv-vp8-vorbis-webm
 無綫財經·資訊,http://61.93.125.49:9981/stream/channel/8fee7c8b98145fcdab4bf626bd0fb58b?profile=webtv-vp8-vorbis-webm
 ViuTVsix,http://61.93.125.49:9981/stream/channel/59c4bda680db931ffb52d13a9013f2f9?profile=webtv-vp8-vorbis-webm
+ViuTV,http://61.93.125.49:9981/stream/channel/59c4bda680db931ffb52d13a9013f2f9?profile=webtv-vp8-vorbis-webm
 翡翠台,http://61.93.125.49:9981/stream/channel/6bfd087e66dbeab495dfa7a74c45cb89?profile=webtv-vp8-vorbis-webm
 開電視,http://61.93.125.49:9981/stream/channel/5b111166230d42fd6efd0ce2a224ab59?profile=webtv-vp8-vorbis-webm
 香港國際財經台,http://61.93.125.49:9981/stream/channel/cecbcae0c6c7ab1ec1a493a6be121a93?profile=webtv-vp8-vorbis-webm
