@@ -102,6 +102,7 @@ CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
 YOUTUBE,#genre#
+中天新闻,http://192.168.137.1:1972/
 AfricaNews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 8TV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/.8TV.m3u8
 AFR7.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
