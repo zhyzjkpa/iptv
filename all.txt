@@ -112,6 +112,34 @@ CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
 YOUTUBE,#genre#
 中天新闻,http://192.168.137.1:1972/
+东森新闻,http://192.168.137.1:1973/
+三立新闻,http://192.168.137.1:1974/
+民视新闻,http://192.168.137.1:1975/
+TVBS新闻,http://192.168.137.1:1976/
+中视新闻,http://192.168.137.1:1977/
+华视新闻,http://192.168.137.1:1978/
+台视新闻,http://192.168.137.1:1979/
+SET iNEWS,http://192.168.137.1:1980/
+CCTV 中文国际,http://192.168.137.1:1981/
+CNA,http://192.168.137.1:1982/
+SKY,http://192.168.137.1:1983/
+ABC1,http://192.168.137.1:1984/
+ABC2,http://192.168.137.1:1985/
+NBC2,http://192.168.137.1:1986/
+Al Jazeera,http://192.168.137.1:1987/
+ABC7,http://192.168.137.1:1988/
+NTDAPTV,http://192.168.137.1:1989/
+DW,http://192.168.137.1:1990/
+FRANCE 24,http://192.168.137.1:1991/
+RT,http://192.168.137.1:1992/
+TRT,http://192.168.137.1:1993/
+EURONEWS,http://192.168.137.1:1994/
+Bloomburg,http://192.168.137.1:1995/
+KBS,http://192.168.137.1:1996/
+Yonhap News,http://192.168.137.1:1997/
+YTN,http://192.168.137.1:1998/
+ANN,http://192.168.137.1:1999/
+GITHUB,#genre#
 AfricaNews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 8TV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/.8TV.m3u8
 AFR7.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
