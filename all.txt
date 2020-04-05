@@ -1,6 +1,9 @@
 JKPA,#genre#
 央视新闻,https://pl.live.weibo.com/alicdn/b7e02f08ef2a457d3669024ec9eb7a82_6M.m3u8
 CCTV 13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV 13,http://221.230.141.252/live-dtocnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 13,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 13,http://221.230.141.225/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV 13,http://61.162.100.66/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV 13,http://61.162.100.69/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV 13,http://61.162.100.71/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
