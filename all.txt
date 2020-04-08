@@ -142,6 +142,7 @@ KBS,http://10.168.1.72:1996/
 Yonhap News,http://10.168.1.72:1997/
 YTN,http://10.168.1.72:1998/
 ANN,http://10.168.1.72:1999/
+Coronavirus2,http://10.168.1.72:2000/
 GITHUB,#genre#
 AfricaNews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 8TV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/.8TV.m3u8
