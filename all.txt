@@ -173,6 +173,36 @@ Yonhap News,http://192.168.123.72:1997/
 YTN,http://192.168.123.72:1998/
 ANN,http://192.168.123.72:1999/
 Coronavirus2,http://192.168.123.72:2000/
+YOUTUBE3,#genre#
+中天新闻,http://192.168.137.1:1972/
+东森新闻,http://192.168.137.1:1973/
+三立新闻,http://192.168.137.1:1974/
+民视新闻,http://192.168.137.1:1975/
+TVBS新闻,http://192.168.137.1:1976/
+中视新闻,http://192.168.137.1:1977/
+华视新闻,http://192.168.137.1:1978/
+台视新闻,http://192.168.137.1:1979/
+SET iNEWS,http://192.168.137.1:1980/
+CCTV 中文国际,http://192.168.137.1:1981/
+CNA,http://192.168.137.1:1982/
+SKY,http://192.168.137.1:1983/
+ABC1,http://192.168.137.1:1984/
+ABC2,http://192.168.137.1:1985/
+NBC2,http://192.168.137.1:1986/
+Al Jazeera,http://192.168.137.1:1987/
+ABC7,http://192.168.137.1:1988/
+NTDAPTV,http://192.168.137.1:1989/
+DW,http://192.168.137.1:1990/
+FRANCE 24,http://192.168.137.1:1991/
+RT,http://192.168.137.1:1992/
+TRT,http://192.168.137.1:1993/
+Coronavirus,http://192.168.137.1:1994/
+Bloomburg,http://192.168.137.1:1995/
+KBS,http://192.168.137.1:1996/
+Yonhap News,http://192.168.137.1:1997/
+YTN,http://192.168.137.1:1998/
+ANN,http://192.168.137.1:1999/
+Coronavirus2,http://192.168.137.1:2000/
 GITHUB,#genre#
 AfricaNews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 8TV.m3u8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/.8TV.m3u8
