@@ -2,8 +2,8 @@ JKPA,#genre#
 央视新闻,https://pl.live.weibo.com/alicdn/b7e02f08ef2a457d3669024ec9eb7a82_6M.m3u8
 CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰卫视,http://112.50.243.8/PLTV/88888888/224/3221226368/1.m3u8
+凤凰资讯,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
+凤凰卫视,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
 有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 有线新闻1,https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
@@ -53,8 +53,7 @@ RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 RFI,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 ZHYZ,#genre#
-凤凰资讯,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
-凤凰卫视,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 广西联通,#genre#
 CCTV1,http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
 CCTV2,http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
