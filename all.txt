@@ -1,13 +1,6 @@
 JKPA,#genre#
 央视新闻,https://pl.live.weibo.com/alicdn/b7e02f08ef2a457d3669024ec9eb7a82_6M.m3u8
-CCTV 13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV 13,http://221.230.141.252/live-dtocnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV 13,http://221.230.141.225/live-dtocnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV 13,http://221.230.141.225/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV 13,http://61.162.100.66/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV 13,http://61.162.100.69/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV 13,http://61.162.100.71/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV 13,http://61.162.100.250/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 有线新闻★,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
@@ -24,7 +17,6 @@ TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8
 壹新聞2,https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/media.m3u8
-CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 CNN,http://ott-cdn.ucom.am/s27/index.m3u8
 NBC,http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
 cnn usa,http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
@@ -59,49 +51,104 @@ Olympic Channel 2,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear062
 RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 RFI,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+广西联通,#genre#
+CCTV1,http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
+CCTV2,http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
+CCTV3,http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+CCTV4,http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
+CCTV5,http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
+CCTV5+,http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
+CCTV6,http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+CCTV7,http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+CCTV8,http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
+CCTV9,http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
+CCTV10,http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
+CCTV11,http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
+CCTV12,http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
+CCTV13,http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+CCTV14,http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+CCTV15,http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+CGTN,http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8
+浙江卫视HD,http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+江苏卫视HD,http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
+湖南卫视HD,http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
+东方卫视HD,http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
+北京卫视HD,http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+广东卫视HD,http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
+天津卫视HD,http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
+深圳卫视HD,http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+山东卫视HD,http://121.31.30.90:8085/ysten-business/live/hdshandongstv/1.m3u8
+黑龙江卫视HD,http://121.31.30.90:8085/ysten-business/live/hdheilongjiangstv/1.m3u8
+江西卫视HD,http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
+重庆卫视,http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
+辽宁卫视,http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
+四川卫视,http://121.31.30.90:8085/ysten-business/live/sichuanstv/1.m3u8
+广西卫视,http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
+河北卫视,http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
+山西卫视,http://121.31.30.90:8085/ysten-business/live/shanxistv/1.m3u8
+陕西卫视,http://121.31.30.90:8085/ysten-business/live/shanxi1stv/1.m3u8
+安徽卫视,http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
+河南卫视,http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
+青海卫视,http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
+贵州卫视,http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
+宁夏卫视,http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
+甘肃卫视,http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
+内蒙古卫视,http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
+新疆卫视,http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
+旅游卫视,http://121.31.30.90:8085/ysten-business/live/lvyoustv/1.m3u8
+吉林卫视,http://121.31.30.90:8085/ysten-business/live/jilinstv/1.m3u8
+湖北卫视,http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
+西藏卫视,http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
+云南卫视,http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
+CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
+安多卫视,http://cbnlive.cbchot.com/live/anduoweishi_l_1.m3u8
 北京新闻,http://cbnlive.cbchot.com/live/bjxwyth_1.m3u8
 第一财经,http://cbnlive.cbchot.com/live/shanghaicaijing_l_1.m3u8
 超高清 4K,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV 1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV 2,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV 3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV 4,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV 5,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV 5+,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV 6,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV 7,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV 8,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV 9,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV 10,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV 11,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV 12,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV 14,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV 15,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV 17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-北京卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-海南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
-江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
-河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
-贵州卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-重庆卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-安徽卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+浙江联通,#genre#
+CCTV1,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV2,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV3,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV4,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV5,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV7,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV8,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV9,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV10,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV11,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV12,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV14,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV指南,http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CGTN,http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CETV1,http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江卫视,http://101.71.255.229:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+湖南卫视,http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+安徽卫视,http://101.71.255.229:6610/zjhs/2/10003/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+北京卫视,http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+东方卫视,http://101.71.255.229:6610/zjhs/2/10009/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+东南卫视,http://101.71.255.229:6610/zjhs/2/10093/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广东卫视,http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广西卫视,http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+贵州卫视,http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河南卫视,http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+黑龙江卫视,http://101.71.255.229:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+湖北卫视,http://101.71.255.229:6610/zjhs/2/10022/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+吉林卫视,http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+江苏卫视,http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+江西卫视,http://101.71.255.229:6610/zjhs/2/10097/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+甘肃卫视,http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+重庆卫视,http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+辽宁卫视,http://101.71.255.229:6610/zjhs/2/10098/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山东卫视,http://101.71.255.229:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+深圳卫视,http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+四川卫视,http://101.71.255.229:6610/zjhs/2/10099/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 天津卫视,http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+海南卫视,http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 内蒙古卫视,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -111,8 +158,9 @@ CETV1,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
 新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
-安多卫视,http://cbnlive.cbchot.com/live/anduoweishi_l_1.m3u8
+无台标电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+无台标电影2,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+无台标动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 YOUTUBE,#genre#
 中天新闻,http://10.168.1.72:1972/
 东森新闻,http://10.168.1.72:1973/
@@ -173,6 +221,66 @@ Yonhap News,http://192.168.123.72:1997/
 YTN,http://192.168.123.72:1998/
 ANN,http://192.168.123.72:1999/
 Coronavirus2,http://192.168.123.72:2000/
+福州移动,#genre#
+CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+CCTV-2,http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8
+CCTV-3,http://39.135.34.8:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031579
+CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV-5,http://112.50.243.8/PLTV/88888888/224/3221226560/1.m3u8
+CCTV-5+,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+CCTV-6,http://39.135.34.15:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039733
+CCTV-7,http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+CCTV-8,http://39.135.34.12:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039505
+CCTV-9,http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+CCTV-10,http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+CCTV-11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+CCTV-12,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV-14,http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+CCTV-15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-17,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+CGTNDoc,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8
+CGTN,http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
+中教一套,http://112.50.243.8/PLTV/88888888/224/3221225869/1.m3u8
+中教二套,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+中教三套,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+中教四套,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+广东卫视,http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+浙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
+北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
+湖南卫视,http://112.50.243.8/PLTV/88888888/224/3221226790/1.m3u8
+东方卫视,http://112.50.243.8/PLTV/88888888/224/3221226873/1.m3u8
+天津卫视,http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
+重庆卫视,http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
+辽宁卫视,http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
+东南卫视,http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
+江西卫视,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+四川卫视,http://112.50.243.8/PLTV/88888888/224/3221225835/1.m3u8
+江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225930/1.m3u8
+深圳卫视,http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8
+黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+山东卫视,http://112.50.243.8/PLTV/88888888/224/3221226855/1.m3u8
+安徽卫视,http://112.50.243.8/PLTV/88888888/224/3221225844/1.m3u8
+湖北卫视,http://112.50.243.8/PLTV/88888888/224/3221225840/1.m3u8
+广西卫视,http://112.50.243.8/PLTV/88888888/224/3221226925/1.m3u8
+贵州卫视,http://112.50.243.8/PLTV/88888888/224/3221226864/1.m3u8
+河南卫视,http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+青海卫视,http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
+内蒙古卫视,http://112.50.243.8/PLTV/88888888/224/3221226851/1.m3u8
+厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+吉林卫视,http://112.50.243.8/PLTV/88888888/224/3221226831/1.m3u8
+江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
+三沙卫视,http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
+新疆卫视,http://112.50.243.8/PLTV/88888888/224/3221226936/1.m3u8
+河北卫视,http://112.50.243.8/PLTV/88888888/224/3221226885/1.m3u8
+宁夏卫视,http://112.50.243.8/PLTV/88888888/224/3221226843/1.m3u8
+云南卫视,http://112.50.243.8/PLTV/88888888/224/3221226835/1.m3u8
+山西卫视,http://112.50.243.8/PLTV/88888888/224/3221226839/1.m3u8
+西藏卫视,http://112.50.243.8/PLTV/88888888/224/3221226847/1.m3u8
+甘肃卫视,http://112.50.243.8/PLTV/88888888/224/3221226852/1.m3u8
+海南卫视,http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
 YOUTUBE3,#genre#
 中天新闻,http://192.168.137.1:1972/
 东森新闻,http://192.168.137.1:1973/
