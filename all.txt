@@ -37,3 +37,6 @@ CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.
 深圳卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225668/index.m3u8
 天津卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225665/index.m3u8
 浙江卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225514/index.m3u8
+央视新闻·正直播1,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
+央视新闻·正直播2,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
+央视新闻·正直播3,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
