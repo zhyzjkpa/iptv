@@ -1,5 +1,5 @@
 JKPA,#genre#
-CCTV1[北京移动]，http://39.134.135.33:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
+CCTV1[北京移动],http://39.134.135.33:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
 CCTV4[北京移动],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV新闻[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 凤凰资讯[杭州移动],http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
@@ -57,6 +57,6 @@ cctv新闻[福州移动],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 cctv新闻[玉树移动],http://39.134.157.205/PLTV/88888888/224/3221225597/index.m3u8
 cctv新闻[浙江广电],http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 cctv新闻[北京移动2],http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/3.m3u8
-cctv新闻8,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
+cctv新闻[阿里移动],http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 CCTV新闻[辽宁有线],http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
-CCTV新闻[陕西移动],http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221225508/index.m3u8
+
