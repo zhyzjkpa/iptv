@@ -1,6 +1,6 @@
 JKPA,#genre#
-CCTV1[北京移动],http://39.134.135.33:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
-CCTV4[北京移动],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV1[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV4[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225841/index.m3u8
 CCTV新闻[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 凤凰资讯[杭州移动],http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
 凤凰卫视[杭州移动],http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
@@ -49,13 +49,12 @@ CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.
 央视新闻·正直播8,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
 央视新闻·正直播9,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
 央视新闻·正直播10,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-中天新闻[江苏联通]http://153.99.180.70:5021/live/407/playlist.m3u8
+中天新闻[江苏联通],http://153.99.180.70:5021/live/407/playlist.m3u8
 cctv新闻[南昌移动1],http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
 cctv新闻[南昌移动2],http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 cctv新闻[南昌移动3],http://117.169.120.141:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 cctv新闻[福州移动],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 cctv新闻[玉树移动],http://39.134.157.205/PLTV/88888888/224/3221225597/index.m3u8
-cctv新闻[北京移动2],http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/3.m3u8
 cctv新闻[阿里移动],http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 CCTV新闻[辽宁有线],http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
 
