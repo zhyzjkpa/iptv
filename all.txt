@@ -8,6 +8,7 @@ CCTV新闻[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225638
 凤凰卫视[杭州移动],http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
 香港无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
 香港有线新闻,http://demo.easydss.com:10080/vhls/jIZb3kvGg/jIZb3kvGg_live.m3u8
+香港有线娱乐,http://demo.easydss.com:10080/vhls/MZuk5IDGg/MZuk5IDGg_live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 江西卫视[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225852/index.m3u8
 江西都市2,http://39.135.139.214:6610/PLTV/88888888/224/3221225584/2/index.m3u8
