@@ -6,6 +6,7 @@ CCTV4[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225841/inde
 CCTV新闻[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 凤凰资讯[杭州移动],http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
 凤凰卫视[杭州移动],http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
+CCTV1[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225601/index.m3u8
 香港无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
 香港有线新闻,http://demo.easydss.com:10080/vhls/jIZb3kvGg/jIZb3kvGg_live.m3u8
 香港有线娱乐,http://demo.easydss.com:10080/vhls/MZuk5IDGg/MZuk5IDGg_live.m3u8
@@ -19,7 +20,6 @@ CCTV-4K[浙江移动],http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88
 CCTV-4K[杭州移动],http://112.17.40.12/wh7f454c46tw1099172031_1459911128/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 纯享4K[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 G+TV4K,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-CCTV1[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225601/index.m3u8
 CCTV2[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225691/index.m3u8
 CCTV3[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225490/index.m3u8
 CCTV4[浙江联通],http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -38,7 +38,6 @@ CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.
 东方卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225672/index.m3u8
 广东卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225667/index.m3u8
 湖北卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225569/index.m3u8
-湖北卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225594/index.m3u8
 湖南卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
 江苏卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225503/index.m3u8
 江西卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225512/index.m3u8
