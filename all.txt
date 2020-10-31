@@ -40,6 +40,7 @@ CCTV8(南京移动12M),http://223.110.241.130:6610/jsyd/live1/G_CCTV-8-MD/G_CCTV
 香港有线新闻,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
 香港有线娱乐,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
 香港有线财经,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8
+香港无线新闻2,http://111.229.84.232/yulin/tvb.php?id=1
 YTN新闻台,http://live2.abcdsky.com:1935/live/YTN/playlist.m3u8
 JTBC,http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
 凤凰资讯-[杭州移动],http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
@@ -122,3 +123,5 @@ Fox News,mitv://147.135.39.171:9906/5eec88f8000c8d8ff18c96b064502b37.ts
 寰宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 TVBS新闻台,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 壹新闻,mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts
+CNA(新加坡),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN2,vjms://122.155.180.8:8500:3052/live/cid=428
