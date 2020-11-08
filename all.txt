@@ -135,3 +135,6 @@ CNA(新加坡),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66
 法国France 24(法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 德国DW News Europe,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 印度DD News,http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+B-B-C,vjms://58.215.133.189:8500/live/cid=418
+C-N-N,vjms://58.215.133.189:8500/live/cid=428
+C-N-B-C,vjms://58.215.133.189:8500/live/cid=98
