@@ -130,7 +130,6 @@ CNA(新加坡),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66
 美国CBN,http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 美国中国环球电视CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 美国CBSN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-加拿大CBC News,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 法国France 24(英语),http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 法国France 24(法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 德国DW News Europe,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
