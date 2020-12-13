@@ -45,7 +45,7 @@ CCTV8(南京移动12M),http://223.110.241.130:6610/jsyd/live1/G_CCTV-8-MD/G_CCTV
 香港有线财经,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8
 香港无线新闻2,http://111.229.84.232/yulin/tvb.php?id=1
 凤凰中文Max6M1080,http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
-凤凰资讯Max6M1080,http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
+凤凰香港Max6M1080,http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 YTN新闻台,http://live2.abcdsky.com:1935/live/YTN/playlist.m3u8
 JTBC,http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
 凤凰资讯-[杭州移动],http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
@@ -143,3 +143,17 @@ C-N-B-C,vjms://58.215.133.189:8500/live/cid=98
 HBO亚洲,sop://p2p.cibn.cc:80/12041
 动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
 CNN,tvbus://7rJDsdLVF4hzEvTfkaUX7ehp9SVQoYgvRLmJBeBZzVN9Cf4LuH
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+FoxNews,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+now新聞,http://teslagram.com/live/channel_332.m3u8
+now直播,http://teslagram.com/live/channel_331.m3u8
+無綫新聞,http://111.229.84.232/yulin/tvb.php?id=3
+有線新聞,http://livetv.dnsfor.me:80/channel.5.m3u8
+Russia24,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
+SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
