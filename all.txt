@@ -125,6 +125,7 @@ BBC WORLD NEWS,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
 CNBC,mitv://147.135.39.171:9906/5eea255e0002c094e83782a03165180c.ts
 Fox News,mitv://147.135.39.171:9906/5eec88f8000c8d8ff18c96b064502b37.ts
 中天新聞,mitv://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05.ts
+中天新聞2,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 寰宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 TVBS新闻台,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 壹新闻,mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts
@@ -143,7 +144,7 @@ C-N-B-C,vjms://58.215.133.189:8500/live/cid=98
 HBO亚洲,sop://p2p.cibn.cc:80/12041
 动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
 CNN2,tvbus://7rJDsdLVF4hzEvTfkaUX7ehp9SVQoYgvRLmJBeBZzVN9Cf4LuH
-中天新聞2,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新聞3,http://seb.sason.top/sc/ztxw_fhd.m3u8
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
