@@ -142,9 +142,9 @@ now直播,http://teslagram.com/live/channel_331.m3u8
 有線新聞,http://livetv.dnsfor.me:80/channel.5.m3u8
 Russia24,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-BBCvjms,vjms://153.99.180.75:8500:5021/live/cid=418
 CNNvjms,vjms://153.99.180.75:8500:5021/live/cid=428
+BBCvjms,vjms://153.99.180.75:8500:5021/live/cid=418
 CNBCvjms,vjms://153.99.180.75:8500:5021/live/cid=98
-
-
+东森新闻vjms,vjms://153.99.180.75:8500:5021/live/cid=340
+TVBS新闻vjms,vjms://153.99.180.75:8500:5021/live/cid=348
 
