@@ -136,3 +136,7 @@ now直播,http://teslagram.com/live/channel_331.m3u8
 有線新聞,http://livetv.dnsfor.me:80/channel.5.m3u8
 Russia24,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+本帖隐藏的内容
+天津联通4K1,http://211.94.219.175:18080/PLTV/88888888/224/3221226079/index.m3u8
+天津联通4K2,http://211.94.219.175:18080/PLTV/88888888/224/3221226212/index.m3u8
+辽宁卫视3D,http://211.94.219.175:18080/PLTV/88888888/224/3221225772/index.m3u8
