@@ -86,14 +86,9 @@ CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.
 央视新闻·正直播8,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
 央视新闻·正直播9,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
 央视新闻·正直播10,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-cctv新闻[南昌移动1],http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
-cctv新闻[南昌移动2],http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-cctv新闻[南昌移动3],http://117.169.120.141:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-cctv新闻[福州移动],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-cctv新闻[玉树移动],http://39.134.157.205/PLTV/88888888/224/3221225597/index.m3u8
+cctv新闻[南昌移动1],http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+cctv新闻[南昌移动2],http://117.169.120.141:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 cctv新闻[阿里移动],http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
-cctv新闻[广东移动],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-CCTV新闻[辽宁有线],http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
 News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 NHK华语世界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
