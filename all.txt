@@ -62,6 +62,7 @@ CCTV8[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225485/index.m
 CCTV9[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
 CCTV10[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225677/index.m3u8
 CCTV12[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225515/index.m3u8
 CCTV14[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225674/index.m3u8
 CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.m3u8
 安徽卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225675/index.m3u8
@@ -76,6 +77,7 @@ CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.
 深圳卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225668/index.m3u8
 天津卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225665/index.m3u8
 浙江卫视[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225514/index.m3u8
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 央视新闻·正直播1,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
 央视新闻·正直播2,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
 央视新闻·正直播3,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
@@ -89,6 +91,7 @@ CCTV17[七台河移动],http://39.134.65.162/PLTV/88888888/224/3221225708/index.
 cctv新闻[南昌移动1],http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 cctv新闻[南昌移动2],http://117.169.120.141:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 cctv新闻[阿里移动],http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
+cctv新闻[北京移动],http://221.179.217.9/PLTV/88888888/224/3221226316/1.m3u8
 News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 NHK华语世界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
