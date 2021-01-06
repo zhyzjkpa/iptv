@@ -15,7 +15,7 @@ V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 南昌县电视台,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=8
 江西都市2,http://39.135.139.214:6610/PLTV/88888888/224/3221225584/2/index.m3u8
 江西新闻7HD,http://39.135.139.214:6610/PLTV/88888888/224/3221225615/2/index.m3u8
-朝鲜中央台,http://live2.abcdsky.com:1935/live/BCX/playlist.m3u8
+朝鲜中央台,http://tv.nknews.org/tvhls/stream.m3u8
 CCTV1(南京移动12M),http://223.110.241.130:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/
 CCTV2(南京移动12M),http://223.110.241.130:6610/jsyd/live1/G_CCTV-2-MD/G_CCTV-2-MD/
 CCTV3(南京移动12M),http://223.110.241.130:6610/jsyd/live1/G_CCTV-3-MD/G_CCTV-3-MD/
@@ -47,6 +47,7 @@ CCTV8(南京移动12M),http://223.110.241.130:6610/jsyd/live1/G_CCTV-8-MD/G_CCTV
 YTN新闻台,http://live2.abcdsky.com:1935/live/YTN/playlist.m3u8
 JTBC,http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
 凤凰资讯-[杭州移动],http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+CCTV-4K蓝码,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 CCTV-4K[浙江移动],http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hlsrrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 CCTV-4K[杭州移动],http://112.17.40.12/wh7f454c46tw1099172031_1459911128/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 纯享4K[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -119,17 +120,21 @@ CCTV17HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227027/10000
 CNA(新加坡),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 美国CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 美国CBN,http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+NBC,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 美国中国环球电视CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 美国CBSN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 法国France 24(英语),http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 法国France 24(法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 德国DW News Europe,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 印度DD News,http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+218 News,http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 FoxNews,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 now新聞,http://teslagram.com/live/channel_332.m3u8
