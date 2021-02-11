@@ -348,7 +348,6 @@ CGTN 3M1080,http://hdtv.lzu6.edu.cn/hls/cctv16.m3u8
 广东卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_gdhd.m3u8
 江苏卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_jshd.m3u8
 河北卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_hbhd1.m3u8
-浙江卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_zjhd.m3u8
 深圳卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_szhd.m3u8
 湖北卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_hbhd.m3u8
 辽宁卫视 3M1080,http://hdtv.lzu6.edu.cn/hls/jlu_lnhd.m3u8
