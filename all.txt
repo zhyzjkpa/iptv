@@ -191,3 +191,4 @@ wypd[南京移动],http://183.207.255.190/live/program/live/wypd/1300000/mnf.m3u
 dfcj[南京移动],http://183.207.255.190/live/program/live/dfcj/1300000/mnf.m3u8
 dycj[南京移动],http://183.207.255.190/live/program/live/dycj/1300000/mnf.m3u8
 CCTV13HD,http://itv.ahau.edu.cn/hls/cctv13hd.m3u8
+CCTV13HD2,http://[2001:250:5405:13::47]/hls/cctv13hd.m3u8
