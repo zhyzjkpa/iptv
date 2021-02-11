@@ -134,7 +134,7 @@ CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 FoxNews,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 now新聞,http://teslagram.com/live/channel_332.m3u8
 now直播,http://teslagram.com/live/channel_331.m3u8
-翡翠台,http://61.238.6.49:8000/bysid/1
+亞視,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 香港无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
 香港无线新闻2,http://111.229.84.232/yulin/tvb.php?id=1
 Russia24,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
