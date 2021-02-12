@@ -26,8 +26,12 @@ now直播,http://teslagram.com/live/channel_331.m3u8
 东森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+中視 HD,rtmp://59.124.75.156/sat/tv091
+華視 HD,rtmp://59.124.75.156/sat/tv111
+台視 HD,rtmp://59.124.75.156/sat/tv071
 VOA中文,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+陽光衛視,https://stream.isuntv.com/680k/mid_video_index.m3u8
 江西卫视[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
 南昌电视台-1,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=1
 南昌县电视台,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=8
@@ -42,6 +46,7 @@ SiTV欢笑剧场4K,http://39.134.39.26/PLTV/88888888/224/3221226318/index.m3u8
 纯享4K,http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 G+TV4K,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 央视新闻·正直播1,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
 央视新闻·正直播2,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
 央视新闻·正直播3,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
@@ -405,3 +410,5 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 四川卫视高清,http://ivi.bupt.edu.cn/hls/schd.m3u8
 贵州卫视高清,http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 海南卫视高清,http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+广播,#genre#
+RFI法國國際廣播電臺,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
