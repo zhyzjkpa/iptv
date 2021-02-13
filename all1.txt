@@ -1815,4 +1815,3 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 江西龙虎山山涧栈道,http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8
 乐山大佛全景,http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8
 福建武夷山玉女峰,http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
-为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
