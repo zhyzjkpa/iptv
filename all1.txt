@@ -27,7 +27,7 @@ now直播(原生),http://teslagram.com/live/channel_331.m3u8
 華視新聞(原生),http://seb.sason.top/sc/hsxw_fhd.m3u8
 台視新聞(原生),http://seb.sason.top/sc/tsxw_fhd.m3u8
 东森新聞(原生),http://seb.sason.top/sc/dsxw_fhd.m3u8
-三立Live新聞(原生),http://seb.sason.top/sc/sllive_fhd.m3u8
+三立新聞(原生),http://seb.sason.top/sc/sllive_fhd.m3u8
 TVBS新聞(原生),http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視(原生),rtmp://59.124.75.156/sat/tv051
 台視(原生),rtmp://59.124.75.156/sat/tv071
@@ -152,7 +152,7 @@ BesTV4K,http://117.148.187.47/PLTV/88888888/224/3221226718/index.m3u8
 欢笑剧场4K,http://39.134.176.149/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
 欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
 G+TV4K,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-西藏移动(硬解原生)1,#genre#
+藏移(硬原)1,#genre#
 咪咕4K 36M2160,http://117.136.154.98/PLTV/88888888/224/3221225833/index.m3u8
 咪咕视频 8M2160,http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
 CCTV1 4M1080,http://117.136.154.98/PLTV/88888888/224/3221225499/index.m3u8
@@ -403,7 +403,7 @@ SiTV金色频道 540,http://117.136.154.98/PLTV/88888888/224/3221225803/index.m3
 湖南金鹰卡通 576,http://117.136.154.68/PLTV/88888888/224/3221225552/index.m3u8
 西藏藏语 576,http://117.136.154.98/PLTV/88888888/224/3221225553/index.m3u8
 西藏藏语 576,http://117.136.154.98/PLTV/88888888/224/3221225591/index.m3u8
-西藏移动(硬解原生)2,#genre#
+藏移(硬原)2,#genre#
 CCTV1HD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225499/index.m3u8
 CCTV1HD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225663/index.m3u8
 CCTV2HD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225502/index.m3u8
@@ -649,7 +649,7 @@ CETV1SD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225547/index.m
 东方财经SD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225612/index.m3u8
 七彩戏剧SD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225613/index.m3u8
 极速汽车SD[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225614/index.m3u8
-河南科大(硬解),#genre#
+河南科(硬),#genre#
 CCTV1 3M1080,http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
 CCTV1 3M1080,http://hdtv.haust.edu.cn/hls/jlu_cctv1hd.m3u8
 CCTV1 8M1080,http://hdtv.haust.edu.cn/hls/hls27.m3u8
@@ -933,7 +933,7 @@ StarSports 576,http://hdtv.haust.edu.cn/hls/starsports.m3u8
 百视通体育 576,http://hdtv.haust.edu.cn/hls/hls196.m3u8
 喜剧影院 576,http://hdtv.haust.edu.cn/hls/hls6.m3u8
 国学 576,http://hdtv.haust.edu.cn/hls/hls100.m3u8
-江西联通(硬解原生),#genre#
+江联(硬原),#genre#
 CCTV1HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227034/10000100000000060000000000570885_0.smil
 CCTV4HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227022/10000100000000060000000000571118_0.smil
 CCTV10HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227035/10000100000000060000000000570886_0.smil
@@ -955,7 +955,7 @@ CCTV17HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227027/10000
 江西新闻频道HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil
 中国教育电视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227044/10000100000000060000000000571119_0.smil
 江西教育频道HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227090/10000100000000060000000000588553_0.smil
-江西移动(硬解原生),#genre#
+江移(硬原),#genre#
 619号[cctv-1],http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 620号[cctv-2],http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 635号[cctv-3],http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
@@ -999,7 +999,7 @@ CCTV17HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227027/10000
 745号[浙江卫视],http://39.135.138.59:18890/PLTV/88888910/224/3221225744/index.m3u8
 744号[江苏卫视],http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
 746号[湖南卫视],http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
-南京移动(硬解原生),#genre#
+南移(硬原),#genre#
 cctv1hd[南京移动],http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8
 cctv3hd[南京移动],http://183.207.255.190/live/program/live/cctv3hd/4000000/mnf.m3u8
 cctv5hd[南京移动],http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8
@@ -1052,7 +1052,7 @@ dsjpd[南京移动],http://183.207.255.190/live/program/live/dsjpd/1300000/mnf.m
 wypd[南京移动],http://183.207.255.190/live/program/live/wypd/1300000/mnf.m3u8
 dfcj[南京移动],http://183.207.255.190/live/program/live/dfcj/1300000/mnf.m3u8
 dycj[南京移动],http://183.207.255.190/live/program/live/dycj/1300000/mnf.m3u8
-安徽农大(硬解),#genre#
+安农(硬),#genre#
 纯享4K 20M2160,http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226825/1.m3u8
 CCTV1HD,http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 CCTV2HD,http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
@@ -1178,7 +1178,7 @@ BTV冬奥纪实(高清),http://itv.ahau.edu.cn/hls/btv11hd.m3u8
 爱动漫HD,http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 爱玩具HD,http://itv.ahau.edu.cn/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3348420210210152105157114
 爱幼教HD,http://itv.ahau.edu.cn/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-兰州大学(硬解),#genre#
+兰大(硬),#genre#
 SiTV欢笑剧场4K 20M2160,http://hdtv.lzu6.edu.cn/hls/hls185a97.m3u8
 凤凰卫视 10M720,http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 凤凰资讯 10M720,http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
@@ -1590,7 +1590,7 @@ GTV游戏竞技,http://hdtv.lzu6.edu.cn/hls/hls112.m3u8
 国学频道,http://hdtv.lzu6.edu.cn/hls/hls100.m3u8
 央广购物,http://hdtv.lzu6.edu.cn/hls/hls185a582.m3u8
 IPTV收视指南,http://hdtv.lzu6.edu.cn/hls/hls105.m3u8
-北京邮电,#genre#
+北邮(硬),#genre#
 CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
