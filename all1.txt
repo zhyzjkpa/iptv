@@ -4,6 +4,8 @@ CCTV2[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225643/inde
 CCTV3[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 CCTV4[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 CCTV新闻[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+新华社中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+新华社英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 CCTV4KYSP,http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0205.stream/playlist.m3u8
 凤凰资讯[杭州移动],http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8
 凤凰卫视[杭州移动],http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8
@@ -27,9 +29,24 @@ now直播,http://teslagram.com/live/channel_331.m3u8
 东森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中視 HD,rtmp://59.124.75.156/sat/tv091
-華視 HD,rtmp://59.124.75.156/sat/tv111
-台視 HD,rtmp://59.124.75.156/sat/tv071
+民視,rtmp://59.124.75.156/sat/tv051
+台視,rtmp://59.124.75.156/sat/tv071
+中視,rtmp://59.124.75.156/sat/tv091
+華視,rtmp://59.124.75.156/sat/tv111
+TVBS歡樂,rtmp://59.124.75.156/sat/tv421
+緯來日本,rtmp://59.124.75.156/sat/tv521
+TVBS新聞台,rtmp://59.124.75.156/sat/tv551
+東森財經新聞,rtmp://59.124.75.156/sat/tv571
+緯來育樂,rtmp://59.124.75.156/sat/tv701
+緯來體育,rtmp://59.124.75.156:1935/sat/tv721
+Fox-1運動,rtmp://59.124.75.156:1935/sat/tv731
+Fox-2運動,rtmp://59.124.75.156:1935/sat/tv741
+momo綜合,rtmp://59.124.75.156:1935/sat/tv761
+东森超视,rtmp://59.124.75.156/sat/tv771
+博斯運動1台,rtmp://59.124.75.156:1935/sat/md011
+ELEVEN SPORT2,rtmp://59.124.75.156:1935/sat/md031
+博斯魅力,rtmp://59.124.75.156:1935/sat/md041
+ELEVEN PLUS,rtmp://59.124.75.156:1935/sat/md051
 VOA中文,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 陽光衛視,https://stream.isuntv.com/680k/mid_video_index.m3u8
@@ -102,6 +119,7 @@ BesTV4K,http://117.148.187.47/PLTV/88888888/224/3221226718/index.m3u8
 爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 芒果4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 欢笑剧场4K,http://39.134.176.149/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
+欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
 G+TV4K,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 江西联通,#genre#
 CCTV1HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227034/10000100000000060000000000570885_0.smil
