@@ -119,14 +119,14 @@ CCTV17高清[西藏移动],http://117.136.154.98/PLTV/88888888/224/3221225706/in
 贵州卫视高清[江西移动],http://39.135.138.8:6610/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls
 新疆卫视高清,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 新疆卫视高清,http://ott-iptv.top/gwzb/QQ:2301366939/xinjiang/xinjiang.php?id=1
-西藏卫视,http://39.135.138.5:6610/PLTV/88888888/224/3221225723/2/index.m3u8
+西藏卫视[江西移动],http://39.135.138.5:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 内蒙古卫视高清,http://live.m2oplus.nmtv.cn/1/playlist.m3u8?token=
 康巴卫视高清,http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 陕西卫视[江西移动],http://39.135.138.5:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 甘肃卫视高清[江西移动],http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-青海卫视高清[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225531/index.m3u8
+青海卫视[西藏移动],http://117.136.156.42/PLTV/88888888/224/3221225531/index.m3u8
 青海卫视高清,http://live.geermurmt.com/qhws/sd/live.m3u8
-延边卫视高清,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 北京冬奥纪实高清,http://39.135.138.5:6610/PLTV/88888888/224/3221225676/2/index.m3u8
 上海纪实人文高清,http://39.135.138.5:6610/PLTV/88888888/224/3221225609/2/index.m3u8
 金鹰纪实高清,http://39.135.138.5:6610/PLTV/88888888/224/3221225595/2/index.m3u8
