@@ -63,7 +63,7 @@ CCTV4[浙江联通],http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDo
 南昌电视台-1,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=1
 南昌县电视台,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=8
 有線新聞,http://livetv.dnsfor.me:80/channel.5.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞(原生),http://stream.nexttv.com.tw/n001/hd/live.m3u8
 VOA中文,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
