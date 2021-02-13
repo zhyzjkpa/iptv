@@ -106,7 +106,7 @@ cctv新闻[南昌移动1],http://39.134.115.163:8080/PLTV/88888910/224/322122563
 cctv新闻[南昌移动2],http://117.169.120.141:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 cctv新闻[阿里移动],http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 海外,#genre#
-朝鲜中央台,http://tv.nknews.org/tvhls/stream.m3u8
+朝鲜中央台,https://tv.nknews.org/tvdash/stream.mpd
 YTN新闻台,http://live2.abcdsky.com:1935/live/YTN/playlist.m3u8
 JTBC,http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
 News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
