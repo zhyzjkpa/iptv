@@ -10,7 +10,6 @@ CCTV3HD[兰大],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/jlu_cctv3.m3
 NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
 TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/e18d5e559f708e481e8b718b07a6eb58.flv
 TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0ffa5c5b1ba8.flv
-中天新闻,https://ws.matchupstream.tuboshu.com/live/dad88cb2fa5d73e6dbf9f6b237b3bbe5.flv
 东森新闻,https://ws.matchupstream.tuboshu.com/live/9a214f71106fdb71307f7ee24d3e784d.flv
 三立新闻,https://ws.matchupstream.tuboshu.com/live/321354faa4b012db80438394b8566a58.flv
 台视新闻,https://ws.matchupstream.tuboshu.com/live/87c2c163eb76bb88abe661f104e2f948.flv
@@ -18,6 +17,7 @@ TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0f
 华视新闻,https://ws.matchupstream.tuboshu.com/live/1122f583c6ee513b63b3b0e58d94afbd.flv
 民视新闻,https://ws.matchupstream.tuboshu.com/live/ff8005a8981de7a6e5dcb8fc74db6783.flv
 壹新闻台,https://ws.matchupstream.tuboshu.com/live/70470e847ea98a1189f6301477bc90aa.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/dad88cb2fa5d73e6dbf9f6b237b3bbe5.flv
 江西卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226961/10000100000000060000000000543478_0.smil
 江西都市频道(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
 南昌电视台-1,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=1
