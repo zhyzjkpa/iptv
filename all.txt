@@ -7,6 +7,17 @@ CCTV13HD[兰大],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv13hd.m3
 凤凰资讯[兰大],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls255.m3u8
 凤凰卫视[兰大],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls254.m3u8
 CCTV3HD[兰大],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/jlu_cctv3.m3u8
+NOW·新闻台,https://flv3948069e.live.126.net/live/nownews.flv
+TVB·新闻台,https://ws.matchupstream.tuboshu.com/live/e18d5e559f708e481e8b718b07a6eb58.flv
+TVBS·新闻台,https://ws.matchupstream.tuboshu.com/live/1df03965b9c149d1d5cc0ffa5c5b1ba8.flv
+中天新闻,https://ws.matchupstream.tuboshu.com/live/dad88cb2fa5d73e6dbf9f6b237b3bbe5.flv
+东森新闻,https://ws.matchupstream.tuboshu.com/live/9a214f71106fdb71307f7ee24d3e784d.flv
+三立新闻,https://ws.matchupstream.tuboshu.com/live/321354faa4b012db80438394b8566a58.flv
+台视新闻,https://ws.matchupstream.tuboshu.com/live/87c2c163eb76bb88abe661f104e2f948.flv
+中视新闻,https://ws.matchupstream.tuboshu.com/live/27ccff70e660a1604b68dabcc87cbadc.flv
+华视新闻,https://ws.matchupstream.tuboshu.com/live/1122f583c6ee513b63b3b0e58d94afbd.flv
+民视新闻,https://ws.matchupstream.tuboshu.com/live/ff8005a8981de7a6e5dcb8fc74db6783.flv
+壹新闻台,https://ws.matchupstream.tuboshu.com/live/70470e847ea98a1189f6301477bc90aa.flv
 江西卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226961/10000100000000060000000000543478_0.smil
 江西都市频道(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
 南昌电视台-1,http://www.wodedianshi.com/QQ860001680/jxnc.php?id=1
@@ -30,6 +41,21 @@ CCTV17HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227027/10000
 江西新闻频道HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil
 中国教育电视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227044/10000100000000060000000000571119_0.smil
 江西教育频道HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227090/10000100000000060000000000588553_0.smil
+CCTV1 8M1080,http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV2 7M1080,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV3 Max4.5M1080,http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV4 8M1080,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV5 Max4.5M1080,http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV6 Max4.5M1080,http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV7 8M1080,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV8 Max4.5M1080,http://101.71.255.229:6610/zjhs/2/10132/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV10 7M1080,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV11 8M1080,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV12 7M1080,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV13 4M1080,http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV14 8M1080,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV15 8M1080,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+深圳卫视 7M1080,http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV1HD,http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
 CCTV2HD,http://[2001:250:5405:13::47]/hls/cctv2hd.m3u8
 CCTV3HD,http://[2001:250:5405:13::47]/hls/cctv3hd.m3u8
