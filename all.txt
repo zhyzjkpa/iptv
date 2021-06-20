@@ -323,3 +323,12 @@ GTV游戏竞技,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls112.m3u8
 国学频道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls100.m3u8
 央广购物,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a582.m3u8
 IPTV收视指南,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls105.m3u8
+壹新聞(原生),http://stream.nexttv.com.tw/n001/hd/live.m3u8
+中天新聞(原生),http://seb.sason.top/sc/ztxw_fhd.m3u8
+民視新聞(原生),http://seb.sason.top/sc/msxw_fhd.m3u8
+中視新聞(原生),http://seb.sason.top/sc/zsxw_fhd.m3u8
+華視新聞(原生),http://seb.sason.top/sc/hsxw_fhd.m3u8
+台視新聞(原生),http://seb.sason.top/sc/tsxw_fhd.m3u8
+东森新聞(原生),http://seb.sason.top/sc/dsxw_fhd.m3u8
+三立新聞(原生),http://seb.sason.top/sc/sllive_fhd.m3u8
+TVBS新聞(原生),http://seb.sason.top/sc/tvbsxw_fhd.m3u8
