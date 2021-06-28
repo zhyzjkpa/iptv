@@ -169,34 +169,14 @@ Russia24,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 NHK华语世界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 4K,#genre#
-CCTV4K,http://120.221.64.91/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.232/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.112/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.73/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.110/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.113/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.64.92/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.72/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.234/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.114/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.64.237/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV4K,http://120.221.66.74/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
-CCTV-4K[杭州移动],http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-CCTV4K,http://117.148.187.27/PLTV/88888888/224/3221226758/index.m3u8
-纯享4K[宜春移动],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-百视通4K,http://117.148.187.79/PLTV/88888888/224/3221226718/index.m3u8
-SiTV欢笑剧场4K,http://39.134.39.26/PLTV/88888888/224/3221226318/index.m3u8
 纯享4K,http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 北京4K,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
-BesTV4K,http://117.148.187.47/PLTV/88888888/224/3221226718/index.m3u8
 纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 芒果4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 欢笑剧场4K,http://39.134.176.149/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
-欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
-G+TV4K,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-藏移(硬原)1,#genre#
 咪咕4K 36M2160,http://117.136.154.98/PLTV/88888888/224/3221225833/index.m3u8
+藏移(硬原)1,#genre#
 咪咕视频 8M2160,http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
 CCTV1 4M1080,http://117.136.154.98/PLTV/88888888/224/3221225499/index.m3u8
 CCTV1 4M1080,http://117.136.154.98/PLTV/88888888/224/3221225663/index.m3u8
