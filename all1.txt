@@ -1,4 +1,5 @@
 国内,#genre#
+CCTV4K,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 CCTV13ahau,http://itv.ahau.edu.cn/hls/cctv13.m3u8
 CCTV13lzu6,http://hdtv.lzu6.edu.cn/hls/cctv13hd.m3u8
 CCTV13haust,http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
