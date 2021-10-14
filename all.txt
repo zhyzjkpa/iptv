@@ -19,6 +19,8 @@ CCTV-11戏曲,http://223.110.241.137:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+CCTV1HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227034/10000100000000060000000000570885_0.smil
+CCTV4HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227022/10000100000000060000000000571118_0.smil
 CCTV-1综合,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8$北京8M
 CCTV-1综合,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8$北京8M
 CCTV-2财经,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8$北京8M
