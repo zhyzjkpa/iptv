@@ -22,8 +22,4 @@ CCTV12高清[西藏移动],http://117.136.154.98/PLTV/88888888/224/3221225505/in
 CCTV14高清[西藏移动],http://117.136.154.86/PLTV/88888888/224/3221225678/index.m3u8
 CCTV15高清[西藏移动],http://117.136.154.86/PLTV/88888888/224/3221225508/index.m3u8
 CCTV17高清[西藏移动],http://117.136.154.98/PLTV/88888888/224/3221225706/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-Now新聞331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+
