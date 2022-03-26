@@ -1,6 +1,136 @@
 JKPA,#genre#
+CCTV1HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227034/10000100000000060000000000570885_0.smil
+CCTV4HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227022/10000100000000060000000000571118_0.smil
+CCTV13 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+江西卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226961/10000100000000060000000000543478_0.smil
+江西都市频道(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
+江西经济生活(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil
+江西新闻频道HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil
+湖南卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227037/10000100000000060000000000570888_0.smil
+湖北卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227049/10000100000000060000000000571124_0.smil
+安徽卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227046/10000100000000060000000000571121_0.smil
+浙江卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227038/10000100000000060000000000570895_0.smil
+重庆卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227041/10000100000000060000000000570949_0.smil
+河南卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227042/10000100000000060000000000570950_0.smil
+河北卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227043/10000100000000060000000000570951_0.smil
+吉林卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227045/10000100000000060000000000571120_0.smil
+广东卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227047/10000100000000060000000000571122_0.smil
+东南卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227050/10000100000000060000000000571125_0.smil
+中国教育电视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227044/10000100000000060000000000571119_0.smil
+
+ZHYZ,#genre#
+CCTV1,http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221228245/index.m3u8
+CCTV4,http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8
+CCTV13 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV16-高清,http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8#http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8#http://39.135.46.246:6610/PLTV/77777777/224/3221225897/index.m3u8?#http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/index.m3u8#http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8#http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226880/index.m3u8
+CCTV16-4K,http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8#http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+CCTV4K,https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php#http://iptv.tvfix.org/hls/cctv4k.m3u8
+CCTV8K,http://117.148.179.141/PLTV/88888888/224/3221233404/index.m3u8#http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8#http://mail.lacool.tk:8086/rtp/239.93.42.61:5140
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+央视新闻·正直播,https://live-play.cctvnews.cctv.com/cctv/merge10.m3u8
+央视新闻·正直播1,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
+央视新闻·正直播2,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
+央视新闻·正直播3,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
+央视新闻·正直播4,https://newsalic.v.myalicdn.com:443/news/news04_1/index.m3u8
+央视新闻·正直播5,https://newsalic.v.myalicdn.com:443/news/news05_1/index.m3u8
+央视新闻·正直播6,https://newsalic.v.myalicdn.com:443/news/news06_1/index.m3u8
+央视新闻·正直播7,https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
+央视新闻·正直播8,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
+央视新闻·正直播9,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
+央视新闻·正直播10,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
+寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2#p5p://45.92.126.18:19706/60434bdc0009a41d06d32342bef082c3.ts
+TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8#http://iptv.tvfix.org/hls/tvbsnews.m3u8#P2p://860969650:9906/4c700aa999594ea5893d7eab1519f187#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551
+民视新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ftvnews.m3u8#P2p://860969650:9906/f2f4daa81a39490396bc2eea99fd9fd9
+三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8
+凤凰中文2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰资讯2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://iptv.tvfix.org/hls/inews.m3u8#http://iptv.tvfix.org/hls/inews2.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109#P2p://860969650:9906/a8429ecad2e446e18c362b031e3d32bf
+now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#P2p://860969650:9906/f228f98bc84245ce9b4870364b82b6da
+中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#p5p://45.92.126.18:19706/615ceea900061b6e0c5469c546672e4d
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#P2p://860969650:9906/412a06626d254822954dd29b235f9366
+國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8#P2p://860969650:9906/3b86853022324c3da4928922ba545877
+國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8#P2p://860969650:9906/7350ee5ff93341a08945bc1c8d95cd1c
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#P2p://860969650:9906/ec46ca942a3a4c9292c0dee902f579bf
+公视,P2p://860969650:9906/a1c2ecbcd3b64f3eb72ac9191b337cda#http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公视2,P2p://860969650:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
+壹新聞(原生),http://stream.nexttv.com.tw/n001/hd/live.m3u8
+中天新聞(原生),http://seb.sason.top/sc/ztxw_fhd.m3u8
+民視新聞(原生),http://seb.sason.top/sc/msxw_fhd.m3u8
+中視新聞(原生),http://seb.sason.top/sc/zsxw_fhd.m3u8
+華視新聞(原生),http://seb.sason.top/sc/hsxw_fhd.m3u8
+台視新聞(原生),http://seb.sason.top/sc/tsxw_fhd.m3u8
+东森新聞(原生),http://seb.sason.top/sc/dsxw_fhd.m3u8
+三立新聞(原生),http://seb.sason.top/sc/sllive_fhd.m3u8
+TVBS新聞(原生),http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8#https://16live00.akamaized.net/CNN/index.m3u8
+BBC News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8#http://125.227.210.37:10246/VideoInput/play.ts#http://gcs2.xyz:2052/anh/123/1109862
+Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://125.227.210.37:8938/VideoInput/play.ts
+CNA(新加坡),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+VOA中文,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+RFI 法國國際廣播電臺,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
+江西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+江西-2 都市频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
+江西-3 经济生活频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
+江西-4 影视·旅游频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226949/10000100000000060000000000527278_0.smil
+江西-5 公共·农业频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226948/10000100000000060000000000527279_0.smil
+江西-6 少儿频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227089/10000100000000060000000000582672_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225577/index.m3u8?fmt=ts2hls
+江西-7 新闻频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
+江西-8 移动频道,http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+江西教育 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227090/10000100000000060000000000588553_0.smil
+南昌-1 新闻综合频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncxwzh
+南昌-2 都市频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226226/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncds
+南昌-3 资讯频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226228/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=nczx
+南昌-4 公共频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncgg
+
+中国广播,#genre#
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+英语资讯广播 China Plus Radio,http://cnlive.cnr.cn/hls/yyzxgb.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 海峡飞虹,http://sk.cri.cn/hxfh.m3u8
+CRI 客家之声,http://sk.cri.cn/hakka.m3u8
+CRI 闽南之音,http://sk.cri.cn/minnan.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+江西综合新闻广播,http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
+江西都市广播,http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+江西信息交通广播,http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
+江西民生广播,http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
+江西农村广播·绿色985,http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
+FM91.7 南昌新闻综合频率,https://www.navchina.cf/IPTV/nanchang.php?id=xwzhpl
+FM95.1 南昌交通广播,https://www.navchina.cf/IPTV/nanchang.php?id=ncjtgb
+FM89.7 南昌经济生活频率,https://www.navchina.cf/IPTV/nanchang.php?id=jjshpl
 
 江西PLTV移动CDN版,#genre#
 纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
