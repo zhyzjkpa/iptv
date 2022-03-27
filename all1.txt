@@ -9,6 +9,7 @@
 央视新闻·正直播8,https://live-play.cctvnews.cctv.com/cctv/newslive_8_mud.m3u8
 央视新闻·正直播9,https://live-play.cctvnews.cctv.com/cctv/newslive_9_mud.m3u8
 央视新闻·正直播10,https://live-play.cctvnews.cctv.com/cctv/newslive_10_mud.m3u8
+央视新闻·正直播11,https://live-play.cctvnews.cctv.com/cctv/merge11_mud.m3u8
 CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 CCTV1,http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221228245/index.m3u8#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8#http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://39.135.89.3:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
