@@ -110,7 +110,6 @@ News18India,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/News18India.
 euronews,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/euronews.m3u8
 france24,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/france24.m3u8
 寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/寰宇新聞.m3u8
-PTS,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 三立iNEWS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/三立iNEWS新聞.m3u8
 三立LIVE新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/三立LIVE新闻.m3u8
 土耳其TRTWORLD,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/土耳其TRTWORLD.m3u8
