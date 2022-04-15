@@ -59,9 +59,6 @@ Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://125.227
 CNA(新加坡),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 VOA中文,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-RFI 法國國際廣播電臺,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 江西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 江西-2 都市频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
 江西-3 经济生活频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
@@ -144,6 +141,9 @@ DDIndia,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/DDIndia.m3u8
 
 中国广播,#genre#
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+RFA,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+RFI法國國際廣播電臺,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
