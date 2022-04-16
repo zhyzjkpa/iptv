@@ -13,9 +13,9 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php#http://ip
 CCTV8K,http://117.148.179.141/PLTV/88888888/224/3221233404/index.m3u8#http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8#http://mail.lacool.tk:8086/rtp/239.93.42.61:5140
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-俄罗斯RTUK,https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8
-俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8#https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+俄罗斯RTUK,https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8#https://rt-uk.rttv.com/live/rtuk/playlist_2500Kb.m3u8
+俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/live/rtdoc/playlist_2500Kb.m3u8
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/newslive_1_mud.m3u8
 央视新闻·正直播2,https://live-play.cctvnews.cctv.com/cctv/newslive_2_mud.m3u8
 央视新闻·正直播3,https://live-play.cctvnews.cctv.com/cctv/newslive_3_mud.m3u8
