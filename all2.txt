@@ -13,6 +13,9 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php#http://ip
 CCTV8K,http://117.148.179.141/PLTV/88888888/224/3221233404/index.m3u8#http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8#http://mail.lacool.tk:8086/rtp/239.93.42.61:5140
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄罗斯RTUK,https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8
+俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/newslive_1_mud.m3u8
 央视新闻·正直播2,https://live-play.cctvnews.cctv.com/cctv/newslive_2_mud.m3u8
 央视新闻·正直播3,https://live-play.cctvnews.cctv.com/cctv/newslive_3_mud.m3u8
@@ -24,11 +27,9 @@ CCTV8K,http://117.148.179.141/PLTV/88888888/224/3221233404/index.m3u8#http://117
 央视新闻·正直播9,https://live-play.cctvnews.cctv.com/cctv/newslive_9_mud.m3u8
 央视新闻·正直播10,https://live-play.cctvnews.cctv.com/cctv/newslive_10_mud.m3u8
 央视新闻·正直播11,https://live-play.cctvnews.cctv.com/cctv/merge11_mud.m3u8
-寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2#p5p://45.92.126.18:19706/60434bdc0009a41d06d32342bef082c3.ts
-TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8#http://iptv.tvfix.org/hls/tvbsnews.m3u8#P2p://860969650:9906/4c700aa999594ea5893d7eab1519f187#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551
-民视新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ftvnews.m3u8#P2p://860969650:9906/f2f4daa81a39490396bc2eea99fd9fd9
-三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
-三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8
+寰宇新闻,P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2#p5p://45.92.126.18:19706/60434bdc0009a41d06d32342bef082c3.ts
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8#P2p://860969650:9906/4c700aa999594ea5893d7eab1519f187#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551
+民视新闻台,P2p://860969650:9906/f2f4daa81a39490396bc2eea99fd9fd9
 凤凰中文2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰资讯2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://iptv.tvfix.org/hls/inews.m3u8#http://iptv.tvfix.org/hls/inews2.m3u8
@@ -36,11 +37,11 @@ TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#P2p://860969650:9906/f228f98bc84245ce9b4870364b82b6da
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#p5p://45.92.126.18:19706/615ceea900061b6e0c5469c546672e4d
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#P2p://860969650:9906/412a06626d254822954dd29b235f9366
-國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8#P2p://860969650:9906/3b86853022324c3da4928922ba545877
-國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8#P2p://860969650:9906/7350ee5ff93341a08945bc1c8d95cd1c
+國會頻道1,P2p://860969650:9906/3b86853022324c3da4928922ba545877
+國會頻道2,P2p://860969650:9906/7350ee5ff93341a08945bc1c8d95cd1c
 台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#P2p://860969650:9906/ec46ca942a3a4c9292c0dee902f579bf
-公视,P2p://860969650:9906/a1c2ecbcd3b64f3eb72ac9191b337cda#http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-公视2,P2p://860969650:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
+公视,P2p://860969650:9906/a1c2ecbcd3b64f3eb72ac9191b337cda#http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+公视2,P2p://860969650:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9
 壹新聞(原生),http://stream.nexttv.com.tw/n001/hd/live.m3u8
 中天新聞(原生),http://seb.sason.top/sc/ztxw_fhd.m3u8
 民視新聞(原生),http://seb.sason.top/sc/msxw_fhd.m3u8
