@@ -14,6 +14,13 @@ CCTV8K,http://117.148.179.141/PLTV/88888888/224/3221233404/index.m3u8#http://117
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8#https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+TVBRICSChinese,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+russiaРоссия24,https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
+moscowМосква24,https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist_3.m3u8
+russiaРоссия К,https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist_3.m3u8
+РТР-Планета,https://vgtrksmotrim.cdnvideo.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+俄国斯红星电视台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+俄罗斯中心电视台TVC,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 俄罗斯RTUK,https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8#https://rt-uk.rttv.com/live/rtuk/playlist_2500Kb.m3u8
 俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/live/rtdoc/playlist_2500Kb.m3u8
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/merge1_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_1_mud.m3u8
