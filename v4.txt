@@ -11,7 +11,6 @@ CCTV8K,http://117.148.179.141/PLTV/88888888/224/3221233404/index.m3u8#http://117
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/merge1_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_1_mud.m3u8
 央视新闻·正直播2,https://live-play.cctvnews.cctv.com/cctv/merge2_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_2_mud.m3u8
 央视新闻·正直播3,https://live-play.cctvnews.cctv.com/cctv/merge3_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_3_mud.m3u8
@@ -32,23 +31,13 @@ TVBRICSChinese,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 俄国斯红星电视台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 俄罗斯中心电视台TVC,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 俄罗斯RTUK,https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8#https://rt-uk.rttv.com/live/rtuk/playlist_2500Kb.m3u8
-俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/live/rtdoc/playlist_2500Kb.m3u8凤凰中文2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
+俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/live/rtdoc/playlist_2500Kb.m3u8
+凤凰中文2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰资讯2,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://iptv.tvfix.org/hls/inews.m3u8#http://iptv.tvfix.org/hls/inews2.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109#P2p://860969650:9906/a8429ecad2e446e18c362b031e3d32bf
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#P2p://860969650:9906/f228f98bc84245ce9b4870364b82b6da
-中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#p5p://45.92.126.18:19706/615ceea900061b6e0c5469c546672e4d
-華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#P2p://860969650:9906/412a06626d254822954dd29b235f9366
-台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#P2p://860969650:9906/ec46ca942a3a4c9292c0dee902f579bf
 壹新聞(原生),http://stream.nexttv.com.tw/n001/hd/live.m3u8
-中天新聞(原生),http://seb.sason.top/sc/ztxw_fhd.m3u8
-民視新聞(原生),http://seb.sason.top/sc/msxw_fhd.m3u8
-中視新聞(原生),http://seb.sason.top/sc/zsxw_fhd.m3u8
-華視新聞(原生),http://seb.sason.top/sc/hsxw_fhd.m3u8
-台視新聞(原生),http://seb.sason.top/sc/tsxw_fhd.m3u8
-东森新聞(原生),http://seb.sason.top/sc/dsxw_fhd.m3u8
-三立新聞(原生),http://seb.sason.top/sc/sllive_fhd.m3u8
-TVBS新聞(原生),http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
@@ -62,14 +51,14 @@ V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 江西南昌,#genre#
 江西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
-江西-2 都市频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
+江西-2 都市频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 江西-3 经济生活频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
-江西-4 影视·旅游频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226949/10000100000000060000000000527278_0.smil
-江西-5 公共·农业频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221226948/10000100000000060000000000527279_0.smil
-江西-6 少儿频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227089/10000100000000060000000000582672_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225577/index.m3u8?fmt=ts2hls
-江西-7 新闻频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
+江西-4 影视·旅游频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+江西-5 公共·农业频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+江西-6 少儿频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225577/index.m3u8?fmt=ts2hls
+江西-7 新闻频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
 江西-8 移动频道,http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
-江西教育 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls#rtsp://118.212.169.134/PLTV/88888888/224/3221227090/10000100000000060000000000588553_0.smil
+江西教育 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 南昌-1 新闻综合频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncxwzh
 南昌-2 都市频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226226/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncds
 南昌-3 资讯频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226228/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=nczx
