@@ -10,7 +10,6 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php
 CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/merge1_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_1_mud.m3u8
 央视新闻·正直播2,https://live-play.cctvnews.cctv.com/cctv/merge2_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_2_mud.m3u8
 央视新闻·正直播3,https://live-play.cctvnews.cctv.com/cctv/merge3_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_3_mud.m3u8
