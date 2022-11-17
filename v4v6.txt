@@ -3,6 +3,9 @@ CCTV1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/in
 CCTV3 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
 CCTV4 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 CCTV13 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+凤凰中文 8M 1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰资讯 8M 1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰香港 8M 1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 CCTV16-高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
