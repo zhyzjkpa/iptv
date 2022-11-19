@@ -58,10 +58,10 @@ V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 江西-7 新闻频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
 江西-8 移动频道,http://live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
 江西教育 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
-南昌-1 新闻综合频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncxwzh
-南昌-2 都市频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226226/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncds
-南昌-3 资讯频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226228/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=nczx
-南昌-4 公共频道 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8#https://www.navchina.cf/IPTV/nanchang.php?id=ncgg
+南昌新闻综合频道,https://live.nctv.net.cn/live/nctv1.flv?txSecret=cac80de2e7642f500d64d377a408abc3&txTime=63786475
+南昌都市频道,https://live.nctv.net.cn/live/nctv2.flv?txSecret=f82be3db179d0260edc9ea3fbcc88d06&txTime=63786475
+南昌资讯频道,https://live.nctv.net.cn/live/nctv3.flv?txSecret=8451a8a0318e1a933192bc6d82562781&txTime=63786475
+南昌公共频道,https://live.nctv.net.cn/live/nctv4.flv?txSecret=aaa9cec11bab13dfe5629306f4ea1648&txTime=63786475
 
 江西联通,#genre#
 CCTV1HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227034/10000100000000060000000000570885_0.smil
@@ -187,9 +187,9 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 江西信息交通广播,http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
 江西民生广播,http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
 江西农村广播·绿色985,http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
-FM91.7 南昌新闻综合频率,https://www.navchina.cf/IPTV/nanchang.php?id=xwzhpl
-FM95.1 南昌交通广播,https://www.navchina.cf/IPTV/nanchang.php?id=ncjtgb
-FM89.7 南昌经济生活频率,https://www.navchina.cf/IPTV/nanchang.php?id=jjshpl
+FM91.7 南昌新闻综合频率,https://ytcastmp3.radio.cn/55/stream_10969.mp3?type=1&key=9005ecb6c129cdb7d90480029f86a78e&time=6378675b#https://live.ximalaya.com/radio-first-page-app/live/618/64.m3u8?transcode=ts
+FM95.1 南昌交通广播,https://ytcastmp3.radio.cn/79/stream_10975.mp3?type=1&key=d6763b81313a52779a1f1533d624d354&time=6378675b#https://live.ximalaya.com/radio-first-page-app/live/618/64.m3u8?transcode=ts#https://lhttp.qtfm.cn/live/1804/64k.mp3?app_id=web&ts=63786e8d&sign=8362a9d94638cc6af2f9a607ef538b86
+FM89.7 南昌经济生活频率,https://ytcastmp3.radio.cn/55/stream_12291.mp3?type=1&key=04e37176c7c929f0cc66b03a47e9d14c&time=6378675b
 
 江西PLTV移动CDN版,#genre#
 纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
