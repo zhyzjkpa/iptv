@@ -10,6 +10,8 @@ CCTV13 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/i
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 CCTV16-高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+抖音4K(时效源),https://pull-spe-l3.douyincdn.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGoBAy6W2fsshiAp0_JQ5EEgYXLK4Eu6EFuIozhlrqnXGROTrxUH3GUg-wbEWKde57ZppgyzkrImnYSXaJ7FMvD7vehX9WkYCABTVIg3YDL9QFZIVVWZuovXBWplHH1j46_KkhqGEKx-_i4I_K6vuTTiMZpdTvatyGEOLUk5uHODBHauF0UQDiVRLbfxyJeVcxsh1GHBNmABBDiJfflXU19evGtfXyUlmKa&auth_key=1669117294-0-0-039754ce2178565d183a7d2bd43dd5de&abr_pts=-1800
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/merge1_mud.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_1_mud.m3u8
