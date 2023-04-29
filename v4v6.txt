@@ -1,46 +1,8 @@
 大陆,#genre#
-CCTV-1高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
-CCTV-4高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
-CCTV-5高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
-CCTV-9高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
-CCTV-13高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
-CCTV-5+高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
-凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
 無綫新聞台,http://xtv:1292@23.142.200.188:9981/stream/channelid/213479573?ticket=60F31E4C3C05F4629890BD9E8C6E6C4C437B5B44&profile=pass
-無綫新聞台,http://9.zhxinda.xyz/newss.php?id=1
 有線新聞台,https://api.leonardpark.dev/live/icable/109
-now新聞台,https://ktiptv.cf:443/2209077624/12345/889360
-HOY TV 資訊台,https://Shenzhen31201:87867@hk2.maoy.cc/stream/channelid/1466445980?ticket=B6B6517324B4EB4832994D16A688A52390202C22&profile=pass
-CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8#http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178#http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178#http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
-CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178#http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-纯享4K 20M2160,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-广东体育,https://www.56ku.ml/gudou.php?id=gdsportsHD_7000
-广东综艺 4K,https://www.56ku.ml/gudou.php?id=GDZYHD4K_38000
-CCTV-8K 超高清,http://www.kitcc.cn:8888/udp/239.253.43.106:5146
-BRTV纪实科教8K,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-BesTV4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u
-欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-MUZZIK-ZZ4000-4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-4K影视,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-芒果综艺4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-河南4K,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-TVB Finance,http://xtv:1292@23.142.200.188:9981/stream/channelid/1268876945?ticket=58D9FA9F9052920345E2BD02FF1992B0E38FAF0E&profile=pass
-有線直播新聞台,http://tv.ye23.win/5679/cable39.php
-now直播台,https://ktiptv.cf:443/2209077624/12345/889359
-港台電視31,http://xtv:1292@23.142.200.188:9981/stream/channelid/1344899600?ticket=51AC6EFBD38A183C751F2F231FBFA62E734DCF9B&profile=pass
-港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-港台電視32,http://xtv:1292@23.142.200.188:9981/stream/channelid/292233683?ticket=FBE1D652DC08B30D3D8A6846E017F8E4721A93EA&profile=pass
-港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-RTHK33-1,http://xtv:1292@23.142.200.188:9981/stream/channelid/398029818?ticket=8096864D757312AF982FA73A308FE9698B3082DC&profile=pass
-RTHK34-9,http://xtv:1292@23.142.200.188:9981/stream/channelid/2034384402?ticket=543B6B487CC69E682A90F4960377704C0ADE66EF&profile=pass
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/merge1.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_1.m3u8
 央视新闻·正直播2,https://live-play.cctvnews.cctv.com/cctv/merge2.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_2.m3u8
 央视新闻·正直播3,https://live-play.cctvnews.cctv.com/cctv/merge3.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_3.m3u8
