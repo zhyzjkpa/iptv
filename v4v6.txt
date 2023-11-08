@@ -1,6 +1,4 @@
 大陆,#genre#
-無綫新聞台,http://xtv:1292@23.142.200.188:9981/stream/channelid/213479573?ticket=60F31E4C3C05F4629890BD9E8C6E6C4C437B5B44&profile=pass
-有線新聞台,https://api.leonardpark.dev/live/icable/109
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8#https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 央视新闻·正直播1,https://live-play.cctvnews.cctv.com/cctv/merge1.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_1.m3u8
@@ -16,16 +14,11 @@
 央视新闻·正直播11,https://live-play.cctvnews.cctv.com/cctv/merge11.m3u8#https://live-play.cctvnews.cctv.com/cctv/newslive_11.m3u8
 
 港台海外,#genre#
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8#https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 TVBRICSChinese,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 俄国斯红星电视台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 俄罗斯RTUK,https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8#https://rt-uk.rttv.com/live/rtuk/playlist_2500Kb.m3u8
 俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/live/rtdoc/playlist_2500Kb.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://iptv.tvfix.org/hls/inews.m3u8#http://iptv.tvfix.org/hls/inews2.m3u8
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#P2p://860969650:9906/f228f98bc84245ce9b4870364b82b6da
 News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
@@ -40,8 +33,6 @@ V-O-A,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 江西联通,#genre#
 CCTV1HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227034/10000100000000060000000000570885_0.smil
 CCTV4HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227022/10000100000000060000000000571118_0.smil
-CCTV13 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-CCTV9 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
 江西卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226961/10000100000000060000000000543478_0.smil
 江西都市频道(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
 江西经济生活(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil
@@ -57,6 +48,25 @@ CCTV9 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/in
 广东卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227047/10000100000000060000000000571122_0.smil
 东南卫视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227050/10000100000000060000000000571125_0.smil
 中国教育电视HD(江西联通),rtsp://118.212.169.134/PLTV/88888888/224/3221227044/10000100000000060000000000571119_0.smil
+央视一套-高清,rtsp://171.35.195.54:554/PLTV/88888888/224/3221226943/10000100000000060000000000525020_0.smil
+央视二套-高清,rtsp://171.35.195.55:554/PLTV/88888888/224/3221227231/10000100000000060000000000680051_0.smil
+央视三套-高清,rtsp://171.35.195.58:554/PLTV/88888888/224/3221227255/10000100000000060000000000746031_0.smil
+央视四套-高清,rtsp://171.35.195.54:554/PLTV/88888888/224/3221227022/10000100000000060000000000571118_0.smil
+央视五套-高清,rtsp://171.35.195.58:554/PLTV/88888888/224/3221227264/10000100000000060000000000746032_0.smil
+央视六套-高清,rtsp://171.35.195.58:554/PLTV/88888888/224/3221227266/10000100000000060000000000746033_0.smil
+央视七套-高清,rtsp://171.35.195.55:554/PLTV/88888888/224/3221227229/10000100000000060000000000680052_0.smil
+央视八套-高清,rtsp://171.35.195.58:554/PLTV/88888888/224/3221227257/10000100000000060000000000746034_0.smil
+央视九套,rtsp://171.35.195.54:554/PLTV/88888888/224/3221226984/10000100000000060000000000568689_0.smil
+央视十套-高清,rtsp://171.35.195.55:554/PLTV/88888888/224/3221227035/10000100000000060000000000570886_0.smil
+央视十六-高清,rtsp://171.35.195.58:554/PLTV/88888888/224/3221227265/10000100000000060000000001629537_0.smil
+江西卫视-高清,rtsp://171.35.195.59:554/PLTV/88888888/224/3221226961/10000100000000060000000000543478_0.smil
+江西二套-高清,rtsp://171.35.195.59:554/PLTV/88888888/224/3221227290/10000100000000060000000001722654_0.smil
+江西三套-高清,rtsp://171.35.195.54:554/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil
+江西四套,rtsp://171.35.195.54:554/PLTV/88888888/224/3221226949/10000100000000060000000000527278_0.smil
+江西五套,rtsp://171.35.195.55:554/PLTV/88888888/224/3221226948/10000100000000060000000000527279_0.smil
+江西六套,rtsp://171.35.195.55:554/PLTV/88888888/224/3221226947/10000100000000060000000000527280_0.smil
+江西七套,rtsp://171.35.195.54:554/PLTV/88888888/224/3221226945/10000100000000060000000000527282_0.smil
+江西教育-高清,rtsp://171.35.195.59:554/PLTV/88888888/224/3221227283/10000100000000060000000001741171_0.smil
 
 广播,#genre#
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
