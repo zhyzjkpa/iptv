@@ -1,1 +1,46 @@
-
+V4精选,#genre#
+CCTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221225762/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221226225/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225618/1/index.m3u8?fmt=ts2hls#,http://39.135.140.104:6610/PLTV/88888888/224/3221225501/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225642/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225573/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225694/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225918/1/index.m3u8?fmt=ts2hls
+CCTV4,http://39.135.140.104:6610/PLTV/88888888/224/3221226277/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225571/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225621/1/index.m3u8?fmt=ts2hls
+CCTV9,http://39.135.140.104:6610/PLTV/88888888/224/3221226257/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225626/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225646/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225920/1/index.m3u8?fmt=ts2hls
+CCTV13,http://39.135.140.104:6610/PLTV/88888888/224/3221225638/1/index.m3u8?fmt=ts2hls
+江西卫视高清,http://39.135.140.104:6610/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
+江西都市高清,http://39.137.49.76:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8#http://39.135.140.104:6610/PLTV/88888888/224/3221225584/1/index.m3u8?fmt=ts2hls
+东方卫视高清,http://39.135.140.104:6610/PLTV/88888888/224/3221225659/1/index.m3u8?fmt=ts2hls
+凤凰中文,http://39.135.140.104:6610/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
+凤凰资讯,http://39.135.140.104:6610/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
+4K测试,http://39.135.140.104:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+新华社,http://39.135.140.104:6610/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+静态4K测试[3840x2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+半島新聞台[1920x1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半島電視台[1280x720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+無綫新聞台[1920x1080],http://bziyunshao.synology.me:8890/bysid/83
+HOY 資訊台[1920x1080],http://bziyunshao.synology.me:8891/bysid/78
+CNA[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+US: ABC News[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10800
+US: BBC America[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10805
+US: BBC World[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10806
+US: Bloomberg[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10807
+US: CBS New York[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
+US: CNN[1920x1080],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10819
+US: CNN International[1920x1080],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10820
+Russia Today[1280x720],http://69.64.57.208:8080/russiatoday/playlist.m3u8
+Russia Today[1920x1080],https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄罗斯中文[1920x1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+Sky News Australia[960x540],https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+BBC News[1024x576],http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+24news[1920x1080],http://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
+Record News[1280x720],http://cdn2.connectbr.com.br/Record-News-HD/tracks-v1a1/mono.m3u8
+ZEE NEWS[1280x720],https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+TRT1[1920x1080],https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+CNN Espanol[720x540],http://190.61.43.117:45000/play/a044
+France 24 (en Francais)[1024x576],http://49.0.64.96:8007/France24
+Euronews France[960x540],http://pro-solut-xi.eu:5436/bossna/testiptvvv/10105
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+阿富汗-Kabul,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+乌克兰Сварожичи,http://80.91.177.102:1935/live/live1/playlist.m3u8
+伊拉克Zagros ,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+泰国ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
+沙特阿拉伯-AMayadeen,https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
+阿联酋-Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
