@@ -4,7 +4,7 @@ CCTV4,http://39.135.140.104:6610/PLTV/88888888/224/3221226277/1/index.m3u8?fmt=t
 CCTV9,http://39.135.140.104:6610/PLTV/88888888/224/3221226257/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225626/1/index.m3u8?fmt=ts2hls#http://39.135.140.104:6610/PLTV/88888888/224/3221225646/1/index.m3u8?fmt=ts2hls
 CCTV13,http://39.135.140.104:6610/PLTV/88888888/224/3221225638/1/index.m3u8?fmt=ts2hls
 江西卫视高清,http://39.135.140.104:6610/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
-江西都市高清,http://39.137.49.76:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8#http://39.135.140.104:6610/PLTV/88888888/224/3221225584/1/index.m3u8?fmt=ts2hls
+江西都市高清,http://39.135.140.104:6610/PLTV/88888888/224/3221225584/1/index.m3u8?fmt=ts2hls
 东方卫视高清,http://39.135.140.104:6610/PLTV/88888888/224/3221225659/1/index.m3u8?fmt=ts2hls
 凤凰中文,http://39.135.140.104:6610/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
 凤凰资讯,http://39.135.140.104:6610/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
@@ -23,7 +23,6 @@ US: Bloomberg[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3
 US: CBS New York[1280x720],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 US: CNN[1920x1080],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10819
 US: CNN International[1920x1080],http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10820
-Russia Today[1280x720],http://69.64.57.208:8080/russiatoday/playlist.m3u8
 Russia Today[1920x1080],https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄罗斯中文[1920x1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 Sky News Australia[960x540],https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
