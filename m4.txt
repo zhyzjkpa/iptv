@@ -1,4 +1,5 @@
 精选,#genre#
+南昌新闻综合频道,https://live.nctv.net.cn/live/nctv1.flv?txSecret=10d4bfab1c2d16ee5ef2cdaeafc71a15&txTime=66113AE5
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰资讯,http://39.135.140.104:6610/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
 CCTV13,http://39.135.140.104:6610/PLTV/88888888/224/3221225638/1/index.m3u8?fmt=ts2hls
