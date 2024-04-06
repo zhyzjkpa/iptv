@@ -37,7 +37,6 @@ Euronews France[960x540],http://pro-solut-xi.eu:5436/bossna/testiptvvv/10105
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 阿富汗-Kabul,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-乌克兰Сварожичи,http://80.91.177.102:1935/live/live1/playlist.m3u8
 伊拉克Zagros ,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
 泰国ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
