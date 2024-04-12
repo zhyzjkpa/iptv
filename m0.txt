@@ -10,6 +10,7 @@ CCTV13,http://39.135.140.104:6610/PLTV/88888888/224/3221225638/1/index.m3u8?fmt=
 凤凰资讯,http://39.135.140.104:6610/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
 4K测试,http://39.135.140.104:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 新华社,http://39.135.140.104:6610/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+朝鲜中央电视台,https://tv.nknews.org/tvdash/stream.mpd
 静态4K测试[3840x2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 半島新聞台[1920x1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島電視台[1280x720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8
