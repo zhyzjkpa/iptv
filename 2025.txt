@@ -339,6 +339,7 @@ CETV-4标清,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226985/10000100000
 财富天下,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227296/10000100000000060000000001842698_0.smil
 
 央视频,#genre#
+北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 cctv4k_10m,http://192.168.3.1:35455/ysptp/cctv4k_10m.m3u8
 cctv4k,http://192.168.3.1:35455/ysptp/cctv4k.m3u8
 cctv8k_36m,http://192.168.3.1:35455/ysptp/cctv8k_36m.m3u8
