@@ -341,13 +341,10 @@ CETV-4标清,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226985/10000100000
 央视频,#genre#
 cctv4k_10m,http://192.168.3.1:35455/ysptp/cctv4k_10m.m3u8
 cctv4k,http://192.168.3.1:35455/ysptp/cctv4k.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 cctv8k_36m,http://192.168.3.1:35455/ysptp/cctv8k_36m.m3u8
 cctv8k_120m,http://192.168.3.1:35455/ysptp/cctv8k_120m.m3u8
-cctv164k10m,http://192.168.3.1:35455/ysptp/cctv4k16_10m.m3u8
-cctv164k,http://192.168.3.1:35455/ysptp/cctv4k16.m3u8
-cctv4k10m,http://192.168.3.1:35455/ysptp/cctv4k_10m.m3u8
-cctv4k,http://192.168.3.1:35455/ysptp/cctv4k.m3u8
+cctv16-4k10m,http://192.168.3.1:35455/ysptp/cctv4k16_10m.m3u8
+cctv16-4k,http://192.168.3.1:35455/ysptp/cctv4k16.m3u8
 cctv1-高码,http://192.168.3.1:35455/ysptp/cctv1.m3u8
 cctv2-高码,http://192.168.3.1:35455/ysptp/cctv2.m3u8
 cctv3-高码,http://192.168.3.1:35455/ysptp/cctv3.m3u8
