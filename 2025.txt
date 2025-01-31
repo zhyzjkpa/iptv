@@ -1,3 +1,62 @@
+JKPAYT,#genre#
+Al Jazeera English,http://192.168.3.1:5000/youtube/gCNeDWCI0vo
+AlQaheraNews,http://192.168.3.1:5000/youtube/Vo_YQ0SajRM
+AlJazeera Arabic,http://192.168.3.1:5000/youtube/bNyUyrR0PHo
+中天電視,http://192.168.3.1:5000/youtube/vr3XyVCR4T0
+TVBS NEWS,http://192.168.3.1:5000/youtube/m_dhMSvUCIc
+華視新聞 CH52,http://192.168.3.1:5000/youtube/wM0g8EoUZ_E
+民視新聞網,http://192.168.3.1:5000/youtube/ylYJSBUgaMA
+鏡新聞,http://192.168.3.1:5000/youtube/5n0y6b0Q25o
+東森新聞 CH51,http://192.168.3.1:5000/youtube/V1p33hqPrUk
+三立LIVE新聞,http://192.168.3.1:5000/youtube/MV9mI0GChwo
+台視新聞 TTV NEWS,http://192.168.3.1:5000/youtube/xL0ch83RAK8
+公視新聞網,http://192.168.3.1:5000/youtube/quwqlazU-c8
+Syria TVا,http://192.168.3.1:5000/youtube/OLWU0rKOQ6o
+BBC News,http://192.168.3.1:5000/youtube/dsivequqb-Q
+ABC News,http://192.168.3.1:5000/youtube/-mvUkiILTqI
+CNA,http://192.168.3.1:5000/youtube/XWq5kBlakcQ
+Bloomberg Television,http://192.168.3.1:5000/youtube/iEpJwprxDdk
+News 12,http://192.168.3.1:5000/youtube/1GkcsMJTFiI
+Tokyo Views,http://192.168.3.1:5000/youtube/_k-5U7IeK8g
+Eric - 8K Nature Film,http://192.168.3.1:5000/youtube/TZikBxNaaQk
+4K Natural Wonders,http://192.168.3.1:5000/youtube/t4Dy8WAvMnY
+Relaxing Nature 4K,http://192.168.3.1:5000/youtube/uBsOBJS979U
+Tim Janis,http://192.168.3.1:5000/youtube/dXIyMS61B68
+寰宇新聞,http://192.168.3.1:5000/youtube/6IquAgfvYmc
+Scenic Earth 4K,http://192.168.3.1:5000/youtube/yfe-Nw95sYA
+Z. Heaton - Scenic Relaxation,http://192.168.3.1:5000/youtube/44DDeLbHs3w
+8K Scenic Relaxation,http://192.168.3.1:5000/youtube/uXNU0XgGZhs
+Awesome Nature,http://192.168.3.1:5000/youtube/4rvWb-KgZCw
+三立iNEWS,http://192.168.3.1:5000/youtube/pF507BLtbqU
+鳳凰資訊 PhoenixTVNews,http://192.168.3.1:5000/youtube/LNux6O0Fj6A
+Z. Heaton - Scenic Relaxation,http://192.168.3.1:5000/youtube/vQP8AwAFzI8
+Discovery Relaxation,http://192.168.3.1:5000/youtube/et_uYIxg778
+ANNnewsCH,http://192.168.3.1:5000/youtube/coYw-eVU0Ks
+FOX 5 Washington DC,http://192.168.3.1:5000/youtube/14r35zyrWA8
+The Good Life Radio x Sensual Musique,http://192.168.3.1:5000/youtube/36YnV9STBqc
+57東森財經新聞,http://192.168.3.1:5000/youtube/AEBeWMM1atA
+USTV 非凡電視,http://192.168.3.1:5000/youtube/NHQDx8vCrC4
+中視新聞,http://192.168.3.1:5000/youtube/-0oD7U5W9hI
+寰宇新聞 頻道,http://192.168.3.1:5000/youtube/w87VGpgd90U
+YTN,http://192.168.3.1:5000/youtube/FJfwehhzIhw
+NHK WORLD-JAPAN,http://192.168.3.1:5000/youtube/f0lYkdA-Gtw
+Arirang TV,http://192.168.3.1:5000/youtube/CJVBX7KI5nU
+데일리서울 한강 라이브캠,http://192.168.3.1:5000/youtube/-JhoMGoAfFc
+ABC News (Australia),http://192.168.3.1:5000/youtube/vOTiJkg1voo
+DW News,http://192.168.3.1:5000/youtube/tZT2MCYu6Zw
+FRANCE 24 English,http://192.168.3.1:5000/youtube/Ap-UM1O9RBU
+euronews,http://192.168.3.1:5000/youtube/pykpO5kQJ98
+FRANCE 24,http://192.168.3.1:5000/youtube/l8PMl7tUDIE
+TRT World,http://192.168.3.1:5000/youtube/sBSFCE8JjcE
+CGTN Europe,http://192.168.3.1:5000/youtube/pd3CgRzcQdA
+新唐人亞太電視台NTDAPTV,http://192.168.3.1:5000/youtube/WIhgU_mc05A
+CCTV中文国际,http://192.168.3.1:5000/youtube/SdzewdkJa-o
+ТСН,http://192.168.3.1:5000/youtube/KHtm_wgBTCw
+Факти ICTV,http://192.168.3.1:5000/youtube/JFvyCBahZ_k
+africanews,http://192.168.3.1:5000/youtube/NQjabLGdP5g
+Channels Television,http://192.168.3.1:5000/youtube/W8nThq62Vb4
+Aaj Tak,http://192.168.3.1:5000/youtube/Nq2wYlWFucg
+
 iTV,#genre#
 纯享4K,http://192.168.3.1:5001/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
 CCTV16 奥林匹克4K,http://192.168.3.1:5001/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
