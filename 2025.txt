@@ -1281,3 +1281,10 @@ CNN 國際新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000002003
 CNN 頭條新聞台(HLN),http://192.168.3.1:5000/hami/OTT_LIVE_0000002004
 三立新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001516
 中央氣象署影音頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000001508
+
+其它,#genre#
+無綫新聞台[1920x1080],http://bziyunshao.synology.me:8890/bysid/83
+RTHK33[853x480],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34[640x360],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RT FRANCE[1280x720],http://69.64.57.208/rtfrance/playlist.m3u8
+RUSSIA TODAY[1280x720],http://69.64.57.208/russiatoday/playlist.m3u8
