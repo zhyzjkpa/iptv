@@ -1082,149 +1082,157 @@ CETV-4 职业教育频道,http://192.168.3.1:4526/jxgitv/G_CETV-4-HQ
 广西卫视,http://192.168.3.1:4526/jxgitv/G_GUANGXI-HQ
 
 四季,#genre#
-民視,http://192.168.3.1:5000/litv/4gtv-4gtv002
-民視第一台,http://192.168.3.1:5000/litv/4gtv-4gtv003
-民視台灣台,http://192.168.3.1:5000/litv/4gtv-4gtv001
-中視,http://192.168.3.1:5000/litv/4gtv-4gtv040
-中視菁采台,http://192.168.3.1:5000/litv/4gtv-4gtv064
-中天亞洲台,http://192.168.3.1:5000/litv/4gtv-4gtv109
-華視,http://192.168.3.1:5000/litv/4gtv-4gtv041
-靖天綜合台,http://192.168.3.1:5000/litv/4gtv-4gtv046
-靖天國際台,http://192.168.3.1:5000/litv/4gtv-4gtv063
-靖天日本台,http://192.168.3.1:5000/litv/4gtv-4gtv047
-三立綜合台,http://192.168.3.1:5000/4gtv/169
-台視,http://192.168.3.1:5000/litv/4gtv-4gtv066
-Arirang TV,http://192.168.3.1:5000/litv/4gtv-4gtv079
-Bloomberg TV,http://192.168.3.1:5000/4gtv/283
-民視新聞台,http://192.168.3.1:5000/litv/litv-ftv13
-中視新聞台,http://192.168.3.1:5000/litv/4gtv-4gtv074
-中天新聞台,http://192.168.3.1:5000/litv/4gtv-4gtv009
-華視新聞,http://192.168.3.1:5000/litv/4gtv-4gtv052
-靖天資訊台,http://192.168.3.1:5000/litv/4gtv-4gtv065
-寰宇新聞台,http://192.168.3.1:5000/litv/litv-longturn14
-寰宇新聞台灣台,http://192.168.3.1:5000/litv/litv-longturn15
-寰宇財經台,http://192.168.3.1:5000/litv/litv-longturn23
-TVBS 新聞台,http://192.168.3.1:5000/litv/4gtv-4gtv072
-三立 iNEWS,http://192.168.3.1:5000/4gtv/229
-台視新聞台,http://192.168.3.1:5000/litv/4gtv-4gtv051
-台視財經台,http://192.168.3.1:5000/litv/4gtv-4gtv056
-東森新聞,http://192.168.3.1:5000/litv/4gtv-4gtv152
-東森財經新聞,http://192.168.3.1:5000/litv/4gtv-4gtv153
-非凡新聞台,http://192.168.3.1:5000/litv/4gtv-4gtv010
-非凡商業台,http://192.168.3.1:5000/litv/4gtv-4gtv048
-鏡電視新聞台,http://192.168.3.1:5000/litv/4gtv-4gtv075
-CNBC Asia 財經台,http://192.168.3.1:5000/4gtv/235
-VOA 美國之音,http://192.168.3.1:5000/litv/litv-ftv03
-DW德國之聲,http://192.168.3.1:5000/4gtv/226
-SBN 全球財經台,http://192.168.3.1:5000/4gtv/224
-半島國際新聞台,http://192.168.3.1:5000/litv/litv-ftv10
-第1商業台,http://192.168.3.1:5000/litv/4gtv-4gtv104
-民視影劇台,http://192.168.3.1:5000/litv/litv-ftv09
-中視經典台,http://192.168.3.1:5000/litv/4gtv-4gtv080
-靖天戲劇台,http://192.168.3.1:5000/litv/4gtv-4gtv058
-靖天電影台,http://192.168.3.1:5000/litv/4gtv-4gtv061
-龍華偶像台,http://192.168.3.1:5000/litv/litv-longturn12
-龍華戲劇台,http://192.168.3.1:5000/litv/litv-longturn18
-龍華經典台,http://192.168.3.1:5000/litv/litv-longturn21
-龍華電影台,http://192.168.3.1:5000/litv/litv-longturn03
-靖洋戲劇台,http://192.168.3.1:5000/litv/4gtv-4gtv045
-TVBS 台劇台,http://192.168.3.1:5000/4gtv/285
-影迷數位紀實台,http://192.168.3.1:5000/4gtv/212
-影迷數位電影台,http://192.168.3.1:5000/litv/4gtv-4gtv011
-AMC 電影台,http://192.168.3.1:5000/litv/4gtv-4gtv017
-CatchPlay 電影台,http://192.168.3.1:5000/litv/4gtv-4gtv076
-My Cinema Europe HD 我的歐洲電影,http://192.168.3.1:5000/4gtv/176
-公視戲劇台,http://192.168.3.1:5000/litv/4gtv-4gtv042
-采昌影劇台,http://192.168.3.1:5000/litv/4gtv-4gtv049
-台灣戲劇台,http://192.168.3.1:5000/litv/litv-longturn22
-戲劇免費看 1台,http://192.168.3.1:5000/4gtv/270
-戲劇免費看 2台,http://192.168.3.1:5000/4gtv/244
-經典電影台,http://192.168.3.1:5000/4gtv/201
-電影免費看 2台,http://192.168.3.1:5000/4gtv/245
-電影原聲台 CMusic,http://192.168.3.1:5000/4gtv/218
-花系列 經典劇場,http://192.168.3.1:5000/4gtv/279
-CinemaWorld,http://192.168.3.1:5000/4gtv/225
-HITS 頻道,http://192.168.3.1:5000/4gtv/186
-Rock Action,http://192.168.3.1:5000/4gtv/180
-Rock Entertainment,http://192.168.3.1:5000/4gtv/275
-金光布袋戲,http://192.168.3.1:5000/4gtv/236
-霹靂布袋戲,http://192.168.3.1:5000/4gtv/301
-民視旅遊台,http://192.168.3.1:5000/litv/litv-ftv07
-ELTA 生活旅遊,http://192.168.3.1:5000/4gtv/237
-ELTV 生活英語,http://192.168.3.1:5000/litv/litv-longturn20
-亞洲旅遊台,http://192.168.3.1:5000/litv/litv-longturn17
-Global Trekker,http://192.168.3.1:5000/4gtv/252
-LUXE TV,http://192.168.3.1:5000/4gtv/175
-Pet Club TV,http://192.168.3.1:5000/4gtv/182
-TV5MONDE Style,http://192.168.3.1:5000/4gtv/178
-車迷 TV,http://192.168.3.1:5000/4gtv/160
-Love Nature,http://192.168.3.1:5000/4gtv/139
-Fun 探索娛樂台,http://192.168.3.1:5000/4gtv/274
-幸福空間居家台,http://192.168.3.1:5000/4gtv/168
-民視綜藝台,http://192.168.3.1:5000/litv/4gtv-4gtv004
-靖天育樂台,http://192.168.3.1:5000/litv/4gtv-4gtv062
-靖天歡樂台,http://192.168.3.1:5000/litv/4gtv-4gtv054
-龍華日韓台,http://192.168.3.1:5000/litv/litv-longturn11
-TVBS 綜藝台,http://192.168.3.1:5000/4gtv/284
-TVBS 歡樂台,http://192.168.3.1:5000/litv/4gtv-4gtv068
-TVBS 精采台,http://192.168.3.1:5000/litv/4gtv-4gtv067
-八大精彩台,http://192.168.3.1:5000/litv/4gtv-4gtv034
-八大綜藝台,http://192.168.3.1:5000/litv/4gtv-4gtv039
-ELTA 娛樂台,http://192.168.3.1:5000/litv/4gtv-4gtv070
-Classica 古典樂,http://192.168.3.1:5000/litv/4gtv-4gtv059
-Lifetime 娛樂頻道,http://192.168.3.1:5000/4gtv/217
-MTV Live HD 音樂頻道,http://192.168.3.1:5000/4gtv/213
-Mezzo Live,http://192.168.3.1:5000/litv/4gtv-4gtv083
-豬哥亮歌廳秀,http://192.168.3.1:5000/litv/4gtv-4gtv006
-Trace Urban,http://192.168.3.1:5000/litv/4gtv-4gtv082
-韓國娛樂台,http://192.168.3.1:5000/litv/4gtv-4gtv016
-靖天映畫台,http://192.168.3.1:5000/litv/4gtv-4gtv055
-靖天卡通台,http://192.168.3.1:5000/litv/4gtv-4gtv044
-龍華卡通台,http://192.168.3.1:5000/litv/litv-longturn01
-靖洋卡通 Nice Bingo,http://192.168.3.1:5000/litv/4gtv-4gtv057
-DreamWorks 夢工廠動畫,http://192.168.3.1:5000/4gtv/282
-Nickelodeon,http://192.168.3.1:5000/4gtv/185
-Nick Jr. 兒童頻道,http://192.168.3.1:5000/4gtv/219
-i-Fun 動漫台,http://192.168.3.1:5000/litv/litv-ftv15
-兒童卡通台,http://192.168.3.1:5000/4gtv/269
-精選動漫台,http://192.168.3.1:5000/4gtv/204
-經典卡通台,http://192.168.3.1:5000/4gtv/202
-達文西頻道,http://192.168.3.1:5000/litv/4gtv-4gtv018
-超人力霸王整套看,http://192.168.3.1:5000/4gtv/278
-MOMO 親子台,http://192.168.3.1:5000/4gtv/231
-LiveABC 互動英語台,http://192.168.3.1:5000/4gtv/188
-TVBS,http://192.168.3.1:5000/litv/4gtv-4gtv073
-History 歷史頻道,http://192.168.3.1:5000/4gtv/214
-CI 罪案偵查頻道,http://192.168.3.1:5000/4gtv/215
-Smart 知識台,http://192.168.3.1:5000/litv/litv-longturn19
-視納華仁紀實頻道,http://192.168.3.1:5000/litv/4gtv-4gtv013
-原住民族電視台,http://192.168.3.1:5000/4gtv/273
-客家電視台,http://192.168.3.1:5000/litv/4gtv-4gtv043
-滾動力 Rollor,http://192.168.3.1:5000/4gtv/249
-好消息,http://192.168.3.1:5000/litv/litv-ftv16
-好消息2台,http://192.168.3.1:5000/litv/litv-ftv17
-大愛電視,http://192.168.3.1:5000/4gtv/209
-大愛電視2,http://192.168.3.1:5000/4gtv/230
-人間衛視,http://192.168.3.1:5000/4gtv/210
-國會頻道1,http://192.168.3.1:5000/litv/4gtv-4gtv084
-國會頻道2,http://192.168.3.1:5000/litv/4gtv-4gtv085
-東森購物一台,http://192.168.3.1:5000/4gtv/173
-東森購物二台,http://192.168.3.1:5000/4gtv/174
-東森購物三台,http://192.168.3.1:5000/4gtv/287
-東森購物四台,http://192.168.3.1:5000/4gtv/286
-博斯運動一台,http://192.168.3.1:5000/litv/litv-longturn07
-博斯運動二台,http://192.168.3.1:5000/litv/litv-longturn08
-博斯無限台,http://192.168.3.1:5000/litv/litv-longturn10
-博斯無限二台,http://192.168.3.1:5000/litv/litv-longturn13
-博斯網球台,http://192.168.3.1:5000/litv/litv-longturn09
-博斯高球台,http://192.168.3.1:5000/litv/litv-longturn05
-博斯高球二台,http://192.168.3.1:5000/litv/litv-longturn06
-博斯魅力台,http://192.168.3.1:5000/litv/litv-longturn04
-GINX Esports TV,http://192.168.3.1:5000/litv/4gtv-4gtv053
-TechStorm,http://192.168.3.1:5000/4gtv/181
-時尚運動X,http://192.168.3.1:5000/4gtv/277
-智林體育台,http://192.168.3.1:5000/litv/4gtv-4gtv101
-TraceSports,http://192.168.3.1:5000/litv/4gtv-4gtv077
+TVBS 綜藝台,http://192.168.3.1:4526/4gtv/284/1080
+TVBS 台劇台,http://192.168.3.1:4526/4gtv/285/1080
+三立綜合台,http://192.168.3.1:4526/4gtv/169/1080
+三立 iNEWS,http://192.168.3.1:4526/4gtv/229/1080
+ELTA 生活旅遊,http://192.168.3.1:4526/4gtv/237/1080
+CNBC Asia 財經台,http://192.168.3.1:4526/4gtv/235/1080
+時尚運動X,http://192.168.3.1:4526/4gtv/277/1080
+影迷數位紀實台,http://192.168.3.1:4526/4gtv/212/1080
+My Cinema Europe HD 我的歐洲電影,http://192.168.3.1:4526/4gtv/176/1080
+戲劇免費看 1台,http://192.168.3.1:4526/4gtv/270/1080
+經典電影台,http://192.168.3.1:4526/4gtv/201/1080
+電影原聲台 CMusic,http://192.168.3.1:4526/4gtv/218/1080
+CinemaWorld,http://192.168.3.1:4526/4gtv/225/1080
+HITS 頻道,http://192.168.3.1:4526/4gtv/186/1080
+Rock Action,http://192.168.3.1:4526/4gtv/180/1080
+Rock Entertainment,http://192.168.3.1:4526/4gtv/275/1080
+金光布袋戲,http://192.168.3.1:4526/4gtv/236/1080
+霹靂布袋戲,http://192.168.3.1:4526/4gtv/301/1080
+DreamWorks 夢工廠動畫,http://192.168.3.1:4526/4gtv/282/1080
+Nickelodeon,http://192.168.3.1:4526/4gtv/185/1080
+Nick Jr. 兒童頻道,http://192.168.3.1:4526/4gtv/219/1080
+兒童卡通台,http://192.168.3.1:4526/4gtv/269/1080
+精選動漫台,http://192.168.3.1:4526/4gtv/204/1080
+經典卡通台,http://192.168.3.1:4526/4gtv/202/1080
+MOMO 親子台,http://192.168.3.1:4526/4gtv/231/1080
+LiveABC 互動英語台,http://192.168.3.1:4526/4gtv/188/1080
+Lifetime 娛樂頻道,http://192.168.3.1:4526/4gtv/217/1080
+MTV Live HD 音樂頻道,http://192.168.3.1:4526/4gtv/213/1080
+Global Trekker,http://192.168.3.1:4526/4gtv/252/1080
+LUXE TV,http://192.168.3.1:4526/4gtv/175/1080
+Pet Club TV,http://192.168.3.1:4526/4gtv/182/1080
+TV5MONDE Style,http://192.168.3.1:4526/4gtv/178/1080
+車迷 TV,http://192.168.3.1:4526/4gtv/160/1080
+Love Nature,http://192.168.3.1:4526/4gtv/139/1080
+Fun 探索娛樂台,http://192.168.3.1:4526/4gtv/274/1080
+幸福空間居家台,http://192.168.3.1:4526/4gtv/168/1080
+Bloomberg TV,http://192.168.3.1:4526/4gtv/283/1080
+DW德國之聲,http://192.168.3.1:4526/4gtv/226/1080
+SBN 全球財經台,http://192.168.3.1:4526/4gtv/224/1080
+History 歷史頻道,http://192.168.3.1:4526/4gtv/214/1080
+CI 罪案偵查頻道,http://192.168.3.1:4526/4gtv/215/1080
+原住民族電視台,http://192.168.3.1:4526/4gtv/273/1080
+滾動力 Rollor,http://192.168.3.1:4526/4gtv/249/1080
+大愛電視,http://192.168.3.1:4526/4gtv/209/1080
+大愛電視2,http://192.168.3.1:4526/4gtv/230/1080
+人間衛視,http://192.168.3.1:4526/4gtv/210/1080
+東森購物一台,http://192.168.3.1:4526/4gtv/173/1080
+東森購物二台,http://192.168.3.1:4526/4gtv/174/1080
+東森購物三台,http://192.168.3.1:4526/4gtv/287/1080
+東森購物四台,http://192.168.3.1:4526/4gtv/286/1080
+
+litv,#genre#
+民視第一台,http://192.168.3.1:4526/litv/4gtv-4gtv003
+民視,http://192.168.3.1:4526/litv/4gtv-4gtv155
+台視,http://192.168.3.1:4526/litv/4gtv-4gtv066
+中視,http://192.168.3.1:4526/litv/4gtv-4gtv040
+華視,http://192.168.3.1:4526/litv/4gtv-4gtv041
+公視戲劇,http://192.168.3.1:4526/litv/4gtv-4gtv042
+好消息,http://192.168.3.1:4526/litv/litv-ftv16
+空中英語教室HD頻道,http://192.168.3.1:4526/litv/litv-playout955
+民視綜藝台,http://192.168.3.1:4526/litv/4gtv-4gtv004
+Focus歡樂綜合台,http://192.168.3.1:4526/litv/litv-fast1223
+亞洲旅遊台,http://192.168.3.1:4526/litv/litv-longturn17
+中天亞洲台,http://192.168.3.1:4526/litv/4gtv-4gtv109
+龍華戲劇台,http://192.168.3.1:4526/litv/litv-longturn18
+TVBS精采台,http://192.168.3.1:4526/litv/4gtv-4gtv067
+TVBS歡樂台,http://192.168.3.1:4526/litv/4gtv-4gtv068
+東森購物1台,http://192.168.3.1:4526/litv/4gtv-4gtv102
+民視影劇台,http://192.168.3.1:4526/litv/litv-ftv09
+龍華偶像台,http://192.168.3.1:4526/litv/litv-longturn12
+龍華日韓台,http://192.168.3.1:4526/litv/litv-longturn11
+Focus風采戲劇台,http://192.168.3.1:4526/litv/litv-fast1224
+東森購物2台,http://192.168.3.1:4526/litv/4gtv-4gtv103
+掏掏新聞,http://192.168.3.1:4526/litv/litv-playout50
+東森新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv152
+華視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv052
+民視新聞台,http://192.168.3.1:4526/litv/litv-ftv13
+三立新聞iNEWS,http://192.168.3.1:4526/litv/iNEWS
+TVBS新聞,http://192.168.3.1:4526/litv/4gtv-4gtv072
+TVBS,http://192.168.3.1:4526/litv/4gtv-4gtv073
+東森財經新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv153
+非凡新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv010
+台視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv051
+中視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv074
+中天新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv009
+寰宇新聞台灣台,http://192.168.3.1:4526/litv/litv-longturn15
+寰宇新聞台,http://192.168.3.1:4526/litv/litv-longturn14
+鏡新聞,http://192.168.3.1:4526/litv/4gtv-4gtv075
+龍華經典台,http://192.168.3.1:4526/litv/litv-longturn21
+影迷數位電影台,http://192.168.3.1:4526/litv/4gtv-4gtv011
+龍華洋片台,http://192.168.3.1:4526/litv/litv-longturn02
+龍華電影台,http://192.168.3.1:4526/litv/litv-longturn03
+靖天電影台,http://192.168.3.1:4526/litv/4gtv-4gtv061
+靖天映畫,http://192.168.3.1:4526/litv/4gtv-4gtv055
+博斯高球台,http://192.168.3.1:4526/litv/litv-longturn05
+博斯高球二台,http://192.168.3.1:4526/litv/litv-longturn06
+博斯運動一台,http://192.168.3.1:4526/litv/litv-longturn07
+博斯無限台,http://192.168.3.1:4526/litv/litv-longturn10
+博斯網球台,http://192.168.3.1:4526/litv/litv-longturn09
+博斯運動二台,http://192.168.3.1:4526/litv/litv-longturn08
+博斯魅力台,http://192.168.3.1:4526/litv/litv-longturn04
+博斯無限二台,http://192.168.3.1:4526/litv/litv-longturn13
+非凡商業台,http://192.168.3.1:4526/litv/4gtv-4gtv048
+台視財經,http://192.168.3.1:4526/litv/4gtv-4gtv056
+寰宇財經台,http://192.168.3.1:4526/litv/litv-longturn23
+寰宇財經台,http://192.168.3.1:4526/litv/4gtv-4gtv158
+豬哥亮歌廳秀,http://192.168.3.1:4526/litv/4gtv-4gtv006
+黃金八點檔,http://192.168.3.1:4526/litv/litv-fast1225
+台灣戲劇台,http://192.168.3.1:4526/litv/litv-longturn22
+視納華仁紀實頻道,http://192.168.3.1:4526/litv/4gtv-4gtv013
+Focus精采戲劇台,http://192.168.3.1:4526/litv/litv-playout953
+八大精彩台,http://192.168.3.1:4526/litv/4gtv-4gtv034
+采昌影劇台,http://192.168.3.1:4526/litv/4gtv-4gtv049
+靖天戲劇台,http://192.168.3.1:4526/litv/4gtv-4gtv058
+靖天日本台,http://192.168.3.1:4526/litv/4gtv-4gtv047
+靖天育樂台,http://192.168.3.1:4526/litv/4gtv-4gtv062
+KLT-靖天國際台,http://192.168.3.1:4526/litv/4gtv-4gtv063
+靖洋戲劇台,http://192.168.3.1:4526/litv/4gtv-4gtv045
+靖天綜合台,http://192.168.3.1:4526/litv/4gtv-4gtv046
+Nice TV靖天歡樂台,http://192.168.3.1:4526/litv/4gtv-4gtv054
+靖天資訊台,http://192.168.3.1:4526/litv/4gtv-4gtv065
+民視旅遊台,http://192.168.3.1:4526/litv/litv-ftv07
+Smart知識台,http://192.168.3.1:4526/litv/litv-longturn19
+愛爾達娛樂台,http://192.168.3.1:4526/litv/4gtv-4gtv070
+中視菁采台,http://192.168.3.1:4526/litv/4gtv-4gtv064
+中視經典台,http://192.168.3.1:4526/litv/4gtv-4gtv080
+八大綜藝台,http://192.168.3.1:4526/litv/4gtv-4gtv039
+客家電視台,http://192.168.3.1:4526/litv/4gtv-4gtv043
+倪珍播新聞,http://192.168.3.1:4526/litv/nnews-zh
+倪珍英語新聞,http://192.168.3.1:4526/litv/nnews-en
+半島國際新聞台,http://192.168.3.1:4526/litv/litv-ftv10
+VOA美國之音,http://192.168.3.1:4526/litv/litv-ftv03
+第1商業台,http://192.168.3.1:4526/litv/4gtv-4gtv104
+國會頻道1台,http://192.168.3.1:4526/litv/4gtv-4gtv084
+國會頻道2台,http://192.168.3.1:4526/litv/4gtv-4gtv085
+TRACE Sport Stars,http://192.168.3.1:4526/litv/4gtv-4gtv077
+智林體育台,http://192.168.3.1:4526/litv/4gtv-4gtv101
+時尚運動X,http://192.168.3.1:4526/litv/4gtv-4gtv014
+GINX Esports TV,http://192.168.3.1:4526/litv/4gtv-4gtv053
+TRACE Urban,http://192.168.3.1:4526/litv/4gtv-4gtv082
+Mezzo Live HD,http://192.168.3.1:4526/litv/4gtv-4gtv083
+CLASSICA 古典樂,http://192.168.3.1:4526/litv/4gtv-4gtv059
+ARIRANG阿里郎頻道,http://192.168.3.1:4526/litv/4gtv-4gtv079
+達文西頻道,http://192.168.3.1:4526/litv/4gtv-4gtv018
+ELTV生活英語台,http://192.168.3.1:4526/litv/litv-longturn20
+靖洋卡通Nice Bingo,http://192.168.3.1:4526/litv/4gtv-4gtv057
+靖天卡通台,http://192.168.3.1:4526/litv/4gtv-4gtv044
+龍華卡通台,http://192.168.3.1:4526/litv/litv-longturn01
+FOCUS快樂兒童台,http://192.168.3.1:4526/litv/litv-playout246
+i-Fun動漫台,http://192.168.3.1:4526/litv/litv-ftv15
+好消息2台,http://192.168.3.1:4526/litv/litv-ftv17
 
 hami,#genre#
 愛爾達綜合台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001573
@@ -1273,4 +1281,3 @@ CNN 國際新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000002003
 CNN 頭條新聞台(HLN),http://192.168.3.1:5000/hami/OTT_LIVE_0000002004
 三立新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001516
 中央氣象署影音頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000001508
-
