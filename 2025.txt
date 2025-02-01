@@ -1288,3 +1288,16 @@ RTHK33[853x480],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/st
 RTHK34[640x360],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RT FRANCE[1280x720],http://69.64.57.208/rtfrance/playlist.m3u8
 RUSSIA TODAY[1280x720],http://69.64.57.208/russiatoday/playlist.m3u8
+俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄国斯红星电视台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+俄罗斯(中文),https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+阿联酋-Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+德国DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
