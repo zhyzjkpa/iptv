@@ -1310,4 +1310,10 @@ KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+乌克兰24news,http://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+泰国ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
+ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+伊拉克Zagros ,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
