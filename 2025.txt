@@ -1290,6 +1290,10 @@ Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 朝鲜中央电视台auto,https://tv.nknews.org/tvhls/stream.m3u8#https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l/chunklist.m3u8
 朝鲜中央电视台1080,https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l_1080p/chunklist.m3u8
 無綫新聞台[1920x1080],http://bziyunshao.synology.me:8890/bysid/83
+無線新聞台,http://192.168.3.1:4526/tvb/C
+無線新聞台·海外版,http://192.168.3.1:4526/tvb/I-NEWS
+無綫新聞 NEVT1,http://192.168.3.1:4526/tvb/NEVT1
+無綫新聞 NEVT2,http://192.168.3.1:4526/tvb/NEVT2
 RTHK33[853x480],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34[640x360],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RT FRANCE[1280x720],http://69.64.57.208/rtfrance/playlist.m3u8
