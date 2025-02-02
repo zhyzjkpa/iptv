@@ -1290,6 +1290,7 @@ Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 朝鲜中央电视台auto,https://tv.nknews.org/tvhls/stream.m3u8#https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l/chunklist.m3u8
 朝鲜中央电视台1080,https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l_1080p/chunklist.m3u8
 無線新聞台,http://192.168.3.1:4526/tvb/C
+Now新聞台,http://192.168.3.1:4526/now/332
 無線新聞台·海外版,http://192.168.3.1:4526/tvb/I-NEWS
 無綫新聞 NEVT1,http://192.168.3.1:4526/tvb/NEVT1
 無綫新聞 NEVT2,http://192.168.3.1:4526/tvb/NEVT2
