@@ -628,6 +628,8 @@ SiTV游戏风云,http://192.168.3.1:5001/TVOD/2000000002000000011/hnbblive/index
 江西移动,#genre#
 4K UHD,http://39.135.140.104:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 CCTV16 4K,http://39.135.140.104:6610/PLTV/88888888/224/3221226236/2/index.m3u8
+新华全球连线,http://39.135.140.104:6610/PLTV/88888888/224/3221226298/1/index.m3u8?fmt=ts2hls
+新华社,http://39.135.140.104:6610/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
 凤凰中文台,http://39.135.140.104:6610/PLTV/88888888/224/3221226248/2/index.m3u8
 凤凰香港台,http://39.135.140.104:6610/PLTV/88888888/224/3221226251/2/index.m3u8
 凤凰资讯台,http://39.135.140.104:6610/PLTV/88888888/224/3221226274/2/index.m3u8
@@ -1301,3 +1303,4 @@ KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
