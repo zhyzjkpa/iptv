@@ -1289,7 +1289,6 @@ CNN 頭條新聞台(HLN),http://192.168.3.1:5000/hami/OTT_LIVE_0000002004
 Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 朝鲜中央电视台auto,https://tv.nknews.org/tvhls/stream.m3u8#https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l/chunklist.m3u8
 朝鲜中央电视台1080,https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l_1080p/chunklist.m3u8
-無綫新聞台[1920x1080],http://bziyunshao.synology.me:8890/bysid/83
 無線新聞台,http://192.168.3.1:4526/tvb/C
 無線新聞台·海外版,http://192.168.3.1:4526/tvb/I-NEWS
 無綫新聞 NEVT1,http://192.168.3.1:4526/tvb/NEVT1
