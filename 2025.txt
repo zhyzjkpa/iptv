@@ -2,59 +2,59 @@ JKPAYT,#genre#
 Al Jazeera English,http://192.168.3.1:5000/youtube/gCNeDWCI0vo
 AlQaheraNews,http://192.168.3.1:5000/youtube/Vo_YQ0SajRM
 AlJazeera Arabic,http://192.168.3.1:5000/youtube/bNyUyrR0PHo
+鳳凰資訊 PhoenixTVNews,http://192.168.3.1:5000/youtube/LNux6O0Fj6A
 中天電視,http://192.168.3.1:5000/youtube/vr3XyVCR4T0
 TVBS NEWS,http://192.168.3.1:5000/youtube/m_dhMSvUCIc
-華視新聞 CH52,http://192.168.3.1:5000/youtube/wM0g8EoUZ_E
-民視新聞網,http://192.168.3.1:5000/youtube/ylYJSBUgaMA
-鏡新聞,http://192.168.3.1:5000/youtube/5n0y6b0Q25o
 東森新聞 CH51,http://192.168.3.1:5000/youtube/V1p33hqPrUk
 三立LIVE新聞,http://192.168.3.1:5000/youtube/MV9mI0GChwo
+三立iNEWS,http://192.168.3.1:5000/youtube/pF507BLtbqU
+民視新聞網,http://192.168.3.1:5000/youtube/ylYJSBUgaMA
+寰宇新聞 頻道,http://192.168.3.1:5000/youtube/w87VGpgd90U
+寰宇新聞,http://192.168.3.1:5000/youtube/6IquAgfvYmc
+鏡新聞,http://192.168.3.1:5000/youtube/5n0y6b0Q25o
+中視新聞,http://192.168.3.1:5000/youtube/-0oD7U5W9hI
+華視新聞 CH52,http://192.168.3.1:5000/youtube/wM0g8EoUZ_E
 台視新聞 TTV NEWS,http://192.168.3.1:5000/youtube/xL0ch83RAK8
 公視新聞網,http://192.168.3.1:5000/youtube/quwqlazU-c8
-Syria TVا,http://192.168.3.1:5000/youtube/OLWU0rKOQ6o
-BBC News,http://192.168.3.1:5000/youtube/dsivequqb-Q
-ABC News,http://192.168.3.1:5000/youtube/-mvUkiILTqI
-CNA,http://192.168.3.1:5000/youtube/XWq5kBlakcQ
-Bloomberg Television,http://192.168.3.1:5000/youtube/iEpJwprxDdk
-News 12,http://192.168.3.1:5000/youtube/1GkcsMJTFiI
-Tokyo Views,http://192.168.3.1:5000/youtube/_k-5U7IeK8g
-Eric - 8K Nature Film,http://192.168.3.1:5000/youtube/TZikBxNaaQk
-4K Natural Wonders,http://192.168.3.1:5000/youtube/t4Dy8WAvMnY
-Relaxing Nature 4K,http://192.168.3.1:5000/youtube/uBsOBJS979U
-Tim Janis,http://192.168.3.1:5000/youtube/dXIyMS61B68
-寰宇新聞,http://192.168.3.1:5000/youtube/6IquAgfvYmc
-Scenic Earth 4K,http://192.168.3.1:5000/youtube/yfe-Nw95sYA
-Z. Heaton - Scenic Relaxation,http://192.168.3.1:5000/youtube/44DDeLbHs3w
-8K Scenic Relaxation,http://192.168.3.1:5000/youtube/uXNU0XgGZhs
-Awesome Nature,http://192.168.3.1:5000/youtube/4rvWb-KgZCw
-三立iNEWS,http://192.168.3.1:5000/youtube/pF507BLtbqU
-鳳凰資訊 PhoenixTVNews,http://192.168.3.1:5000/youtube/LNux6O0Fj6A
-Z. Heaton - Scenic Relaxation,http://192.168.3.1:5000/youtube/vQP8AwAFzI8
-Discovery Relaxation,http://192.168.3.1:5000/youtube/et_uYIxg778
-ANNnewsCH,http://192.168.3.1:5000/youtube/coYw-eVU0Ks
-FOX 5 Washington DC,http://192.168.3.1:5000/youtube/14r35zyrWA8
-The Good Life Radio x Sensual Musique,http://192.168.3.1:5000/youtube/36YnV9STBqc
 57東森財經新聞,http://192.168.3.1:5000/youtube/AEBeWMM1atA
 USTV 非凡電視,http://192.168.3.1:5000/youtube/NHQDx8vCrC4
-中視新聞,http://192.168.3.1:5000/youtube/-0oD7U5W9hI
-寰宇新聞 頻道,http://192.168.3.1:5000/youtube/w87VGpgd90U
-YTN,http://192.168.3.1:5000/youtube/FJfwehhzIhw
-NHK WORLD-JAPAN,http://192.168.3.1:5000/youtube/f0lYkdA-Gtw
-Arirang TV,http://192.168.3.1:5000/youtube/CJVBX7KI5nU
-데일리서울 한강 라이브캠,http://192.168.3.1:5000/youtube/-JhoMGoAfFc
+新唐人亞太電視台NTDAPTV,http://192.168.3.1:5000/youtube/WIhgU_mc05A
+CCTV中文国际,http://192.168.3.1:5000/youtube/SdzewdkJa-o
+CGTN Europe,http://192.168.3.1:5000/youtube/pd3CgRzcQdA
+BBC News,http://192.168.3.1:5000/youtube/dsivequqb-Q
+ABC News,http://192.168.3.1:5000/youtube/-mvUkiILTqI
 ABC News (Australia),http://192.168.3.1:5000/youtube/vOTiJkg1voo
+Bloomberg Television,http://192.168.3.1:5000/youtube/iEpJwprxDdk
+FOX 5 Washington DC,http://192.168.3.1:5000/youtube/14r35zyrWA8
 DW News,http://192.168.3.1:5000/youtube/tZT2MCYu6Zw
 FRANCE 24 English,http://192.168.3.1:5000/youtube/Ap-UM1O9RBU
 euronews,http://192.168.3.1:5000/youtube/pykpO5kQJ98
 FRANCE 24,http://192.168.3.1:5000/youtube/l8PMl7tUDIE
 TRT World,http://192.168.3.1:5000/youtube/sBSFCE8JjcE
-CGTN Europe,http://192.168.3.1:5000/youtube/pd3CgRzcQdA
-新唐人亞太電視台NTDAPTV,http://192.168.3.1:5000/youtube/WIhgU_mc05A
-CCTV中文国际,http://192.168.3.1:5000/youtube/SdzewdkJa-o
+CNA,http://192.168.3.1:5000/youtube/XWq5kBlakcQ
+YTN,http://192.168.3.1:5000/youtube/FJfwehhzIhw
+Arirang TV,http://192.168.3.1:5000/youtube/CJVBX7KI5nU
+데일리서울 한강 라이브캠,http://192.168.3.1:5000/youtube/-JhoMGoAfFc
+NHK WORLD-JAPAN,http://192.168.3.1:5000/youtube/f0lYkdA-Gtw
+ANNnewsCH,http://192.168.3.1:5000/youtube/coYw-eVU0Ks
+Syria TVا,http://192.168.3.1:5000/youtube/OLWU0rKOQ6o
+News 12,http://192.168.3.1:5000/youtube/1GkcsMJTFiI
 ТСН,http://192.168.3.1:5000/youtube/KHtm_wgBTCw
 Факти ICTV,http://192.168.3.1:5000/youtube/JFvyCBahZ_k
 africanews,http://192.168.3.1:5000/youtube/NQjabLGdP5g
 Channels Television,http://192.168.3.1:5000/youtube/W8nThq62Vb4
+Tokyo Views,http://192.168.3.1:5000/youtube/_k-5U7IeK8g
+Eric - 8K Nature Film,http://192.168.3.1:5000/youtube/TZikBxNaaQk
+4K Natural Wonders,http://192.168.3.1:5000/youtube/t4Dy8WAvMnY
+Relaxing Nature 4K,http://192.168.3.1:5000/youtube/uBsOBJS979U
+Tim Janis,http://192.168.3.1:5000/youtube/dXIyMS61B68
+The Good Life Radio x Sensual Musique,http://192.168.3.1:5000/youtube/36YnV9STBqc
+Scenic Earth 4K,http://192.168.3.1:5000/youtube/yfe-Nw95sYA
+Z. Heaton - Scenic Relaxation,http://192.168.3.1:5000/youtube/44DDeLbHs3w
+8K Scenic Relaxation,http://192.168.3.1:5000/youtube/uXNU0XgGZhs
+Awesome Nature,http://192.168.3.1:5000/youtube/4rvWb-KgZCw
+Z. Heaton - Scenic Relaxation,http://192.168.3.1:5000/youtube/vQP8AwAFzI8
+Discovery Relaxation,http://192.168.3.1:5000/youtube/et_uYIxg778
 Aaj Tak,http://192.168.3.1:5000/youtube/Nq2wYlWFucg
 
 iTV,#genre#
@@ -1084,19 +1084,26 @@ CETV-4 职业教育频道,http://192.168.3.1:4526/jxgitv/G_CETV-4-HQ
 广西卫视,http://192.168.3.1:4526/jxgitv/G_GUANGXI-HQ
 
 四季,#genre#
-TVBS 綜藝台,http://192.168.3.1:4526/4gtv/284/1080
-TVBS 台劇台,http://192.168.3.1:4526/4gtv/285/1080
 三立綜合台,http://192.168.3.1:4526/4gtv/169/1080
 三立 iNEWS,http://192.168.3.1:4526/4gtv/229/1080
-ELTA 生活旅遊,http://192.168.3.1:4526/4gtv/237/1080
+Bloomberg TV,http://192.168.3.1:4526/4gtv/283/1080
+DW德國之聲,http://192.168.3.1:4526/4gtv/226/1080
+SBN 全球財經台,http://192.168.3.1:4526/4gtv/224/1080
 CNBC Asia 財經台,http://192.168.3.1:4526/4gtv/235/1080
-時尚運動X,http://192.168.3.1:4526/4gtv/277/1080
-影迷數位紀實台,http://192.168.3.1:4526/4gtv/212/1080
+History 歷史頻道,http://192.168.3.1:4526/4gtv/214/1080
+CI 罪案偵查頻道,http://192.168.3.1:4526/4gtv/215/1080
+MTV Live HD 音樂頻道,http://192.168.3.1:4526/4gtv/213/1080
+Love Nature,http://192.168.3.1:4526/4gtv/139/1080
+TVBS 綜藝台,http://192.168.3.1:4526/4gtv/284/1080
+TVBS 台劇台,http://192.168.3.1:4526/4gtv/285/1080
 My Cinema Europe HD 我的歐洲電影,http://192.168.3.1:4526/4gtv/176/1080
 戲劇免費看 1台,http://192.168.3.1:4526/4gtv/270/1080
 經典電影台,http://192.168.3.1:4526/4gtv/201/1080
 電影原聲台 CMusic,http://192.168.3.1:4526/4gtv/218/1080
+影迷數位紀實台,http://192.168.3.1:4526/4gtv/212/1080
 CinemaWorld,http://192.168.3.1:4526/4gtv/225/1080
+ELTA 生活旅遊,http://192.168.3.1:4526/4gtv/237/1080
+時尚運動X,http://192.168.3.1:4526/4gtv/277/1080
 HITS 頻道,http://192.168.3.1:4526/4gtv/186/1080
 Rock Action,http://192.168.3.1:4526/4gtv/180/1080
 Rock Entertainment,http://192.168.3.1:4526/4gtv/275/1080
@@ -1111,20 +1118,13 @@ Nick Jr. 兒童頻道,http://192.168.3.1:4526/4gtv/219/1080
 MOMO 親子台,http://192.168.3.1:4526/4gtv/231/1080
 LiveABC 互動英語台,http://192.168.3.1:4526/4gtv/188/1080
 Lifetime 娛樂頻道,http://192.168.3.1:4526/4gtv/217/1080
-MTV Live HD 音樂頻道,http://192.168.3.1:4526/4gtv/213/1080
 Global Trekker,http://192.168.3.1:4526/4gtv/252/1080
 LUXE TV,http://192.168.3.1:4526/4gtv/175/1080
 Pet Club TV,http://192.168.3.1:4526/4gtv/182/1080
 TV5MONDE Style,http://192.168.3.1:4526/4gtv/178/1080
 車迷 TV,http://192.168.3.1:4526/4gtv/160/1080
-Love Nature,http://192.168.3.1:4526/4gtv/139/1080
 Fun 探索娛樂台,http://192.168.3.1:4526/4gtv/274/1080
 幸福空間居家台,http://192.168.3.1:4526/4gtv/168/1080
-Bloomberg TV,http://192.168.3.1:4526/4gtv/283/1080
-DW德國之聲,http://192.168.3.1:4526/4gtv/226/1080
-SBN 全球財經台,http://192.168.3.1:4526/4gtv/224/1080
-History 歷史頻道,http://192.168.3.1:4526/4gtv/214/1080
-CI 罪案偵查頻道,http://192.168.3.1:4526/4gtv/215/1080
 原住民族電視台,http://192.168.3.1:4526/4gtv/273/1080
 滾動力 Rollor,http://192.168.3.1:4526/4gtv/249/1080
 大愛電視,http://192.168.3.1:4526/4gtv/209/1080
@@ -1136,18 +1136,41 @@ CI 罪案偵查頻道,http://192.168.3.1:4526/4gtv/215/1080
 東森購物四台,http://192.168.3.1:4526/4gtv/286/1080
 
 litv,#genre#
+中天新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv009
+中天亞洲台,http://192.168.3.1:4526/litv/4gtv-4gtv109
+中視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv074
+TVBS新聞,http://192.168.3.1:4526/litv/4gtv-4gtv072
+TVBS,http://192.168.3.1:4526/litv/4gtv-4gtv073
+東森新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv152
 民視第一台,http://192.168.3.1:4526/litv/4gtv-4gtv003
 民視,http://192.168.3.1:4526/litv/4gtv-4gtv155
 台視,http://192.168.3.1:4526/litv/4gtv-4gtv066
 中視,http://192.168.3.1:4526/litv/4gtv-4gtv040
 華視,http://192.168.3.1:4526/litv/4gtv-4gtv041
+華視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv052
+民視新聞台,http://192.168.3.1:4526/litv/litv-ftv13
+三立新聞iNEWS,http://192.168.3.1:4526/litv/iNEWS
+東森財經新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv153
+非凡新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv010
+台視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv051
+寰宇新聞台灣台,http://192.168.3.1:4526/litv/litv-longturn15
+寰宇新聞台,http://192.168.3.1:4526/litv/litv-longturn14
+鏡新聞,http://192.168.3.1:4526/litv/4gtv-4gtv075
+半島國際新聞台,http://192.168.3.1:4526/litv/litv-ftv10
+VOA美國之音,http://192.168.3.1:4526/litv/litv-ftv03
+國會頻道1台,http://192.168.3.1:4526/litv/4gtv-4gtv084
+國會頻道2台,http://192.168.3.1:4526/litv/4gtv-4gtv085
+非凡商業台,http://192.168.3.1:4526/litv/4gtv-4gtv048
+台視財經,http://192.168.3.1:4526/litv/4gtv-4gtv056
+寰宇財經台,http://192.168.3.1:4526/litv/litv-longturn23
+寰宇財經台,http://192.168.3.1:4526/litv/4gtv-4gtv158
+第1商業台,http://192.168.3.1:4526/litv/4gtv-4gtv104
 公視戲劇,http://192.168.3.1:4526/litv/4gtv-4gtv042
 好消息,http://192.168.3.1:4526/litv/litv-ftv16
 空中英語教室HD頻道,http://192.168.3.1:4526/litv/litv-playout955
 民視綜藝台,http://192.168.3.1:4526/litv/4gtv-4gtv004
 Focus歡樂綜合台,http://192.168.3.1:4526/litv/litv-fast1223
 亞洲旅遊台,http://192.168.3.1:4526/litv/litv-longturn17
-中天亞洲台,http://192.168.3.1:4526/litv/4gtv-4gtv109
 龍華戲劇台,http://192.168.3.1:4526/litv/litv-longturn18
 TVBS精采台,http://192.168.3.1:4526/litv/4gtv-4gtv067
 TVBS歡樂台,http://192.168.3.1:4526/litv/4gtv-4gtv068
@@ -1158,20 +1181,6 @@ TVBS歡樂台,http://192.168.3.1:4526/litv/4gtv-4gtv068
 Focus風采戲劇台,http://192.168.3.1:4526/litv/litv-fast1224
 東森購物2台,http://192.168.3.1:4526/litv/4gtv-4gtv103
 掏掏新聞,http://192.168.3.1:4526/litv/litv-playout50
-東森新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv152
-華視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv052
-民視新聞台,http://192.168.3.1:4526/litv/litv-ftv13
-三立新聞iNEWS,http://192.168.3.1:4526/litv/iNEWS
-TVBS新聞,http://192.168.3.1:4526/litv/4gtv-4gtv072
-TVBS,http://192.168.3.1:4526/litv/4gtv-4gtv073
-東森財經新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv153
-非凡新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv010
-台視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv051
-中視新聞,http://192.168.3.1:4526/litv/4gtv-4gtv074
-中天新聞台,http://192.168.3.1:4526/litv/4gtv-4gtv009
-寰宇新聞台灣台,http://192.168.3.1:4526/litv/litv-longturn15
-寰宇新聞台,http://192.168.3.1:4526/litv/litv-longturn14
-鏡新聞,http://192.168.3.1:4526/litv/4gtv-4gtv075
 龍華經典台,http://192.168.3.1:4526/litv/litv-longturn21
 影迷數位電影台,http://192.168.3.1:4526/litv/4gtv-4gtv011
 龍華洋片台,http://192.168.3.1:4526/litv/litv-longturn02
@@ -1186,10 +1195,6 @@ TVBS,http://192.168.3.1:4526/litv/4gtv-4gtv073
 博斯運動二台,http://192.168.3.1:4526/litv/litv-longturn08
 博斯魅力台,http://192.168.3.1:4526/litv/litv-longturn04
 博斯無限二台,http://192.168.3.1:4526/litv/litv-longturn13
-非凡商業台,http://192.168.3.1:4526/litv/4gtv-4gtv048
-台視財經,http://192.168.3.1:4526/litv/4gtv-4gtv056
-寰宇財經台,http://192.168.3.1:4526/litv/litv-longturn23
-寰宇財經台,http://192.168.3.1:4526/litv/4gtv-4gtv158
 豬哥亮歌廳秀,http://192.168.3.1:4526/litv/4gtv-4gtv006
 黃金八點檔,http://192.168.3.1:4526/litv/litv-fast1225
 台灣戲劇台,http://192.168.3.1:4526/litv/litv-longturn22
@@ -1214,11 +1219,6 @@ Smart知識台,http://192.168.3.1:4526/litv/litv-longturn19
 客家電視台,http://192.168.3.1:4526/litv/4gtv-4gtv043
 倪珍播新聞,http://192.168.3.1:4526/litv/nnews-zh
 倪珍英語新聞,http://192.168.3.1:4526/litv/nnews-en
-半島國際新聞台,http://192.168.3.1:4526/litv/litv-ftv10
-VOA美國之音,http://192.168.3.1:4526/litv/litv-ftv03
-第1商業台,http://192.168.3.1:4526/litv/4gtv-4gtv104
-國會頻道1台,http://192.168.3.1:4526/litv/4gtv-4gtv084
-國會頻道2台,http://192.168.3.1:4526/litv/4gtv-4gtv085
 TRACE Sport Stars,http://192.168.3.1:4526/litv/4gtv-4gtv077
 智林體育台,http://192.168.3.1:4526/litv/4gtv-4gtv101
 時尚運動X,http://192.168.3.1:4526/litv/4gtv-4gtv014
@@ -1237,6 +1237,18 @@ i-Fun動漫台,http://192.168.3.1:4526/litv/litv-ftv15
 好消息2台,http://192.168.3.1:4526/litv/litv-ftv17
 
 hami,#genre#
+BBC NEWS,http://192.168.3.1:5000/hami/OTT_LIVE_0000001527
+CNN 國際新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000002003
+CNN 頭條新聞台(HLN),http://192.168.3.1:5000/hami/OTT_LIVE_0000002004
+三立新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001516
+Asian Food Network 亞洲美食頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000002039
+BBC Earth,http://192.168.3.1:5000/hami/OTT_LIVE_0000001510
+BBC Lifestyle,http://192.168.3.1:5000/hami/OTT_LIVE_0000001513
+Discovery Asia,http://192.168.3.1:5000/hami/OTT_LIVE_0000001924
+Discovery DMAX,http://192.168.3.1:5000/hami/OTT_LIVE_0000001514
+Discovery EVE,http://192.168.3.1:5000/hami/OTT_LIVE_0000001511
+Discovery Science,http://192.168.3.1:5000/hami/OTT_LIVE_0000001512
+中央氣象署影音頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000001508
 愛爾達綜合台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001573
 華藝 MBC 綜合台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001825
 愛爾達娛樂台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001518
@@ -1268,27 +1280,11 @@ BBC Cbeebies,http://192.168.3.1:5000/hami/OTT_LIVE_0000001711
 Cartoonito,http://192.168.3.1:5000/hami/OTT_LIVE_0000001889
 CN 卡通頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000002002
 空中英語教室,http://192.168.3.1:5000/hami/OTT_LIVE_0000001553
-Asian Food Network 亞洲美食頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000002039
-BBC Earth,http://192.168.3.1:5000/hami/OTT_LIVE_0000001510
-BBC Lifestyle,http://192.168.3.1:5000/hami/OTT_LIVE_0000001513
-Discovery Asia,http://192.168.3.1:5000/hami/OTT_LIVE_0000001924
-Discovery DMAX,http://192.168.3.1:5000/hami/OTT_LIVE_0000001514
-Discovery EVE,http://192.168.3.1:5000/hami/OTT_LIVE_0000001511
-Discovery Science,http://192.168.3.1:5000/hami/OTT_LIVE_0000001512
 HGTV 居家樂活頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000001901
 Love Nature,http://192.168.3.1:5000/hami/OTT_LIVE_0000001867
 Travel Channel,http://192.168.3.1:5000/hami/OTT_LIVE_0000001756
-BBC NEWS,http://192.168.3.1:5000/hami/OTT_LIVE_0000001527
-CNN 國際新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000002003
-CNN 頭條新聞台(HLN),http://192.168.3.1:5000/hami/OTT_LIVE_0000002004
-三立新聞台,http://192.168.3.1:5000/hami/OTT_LIVE_0000001516
-中央氣象署影音頻道,http://192.168.3.1:5000/hami/OTT_LIVE_0000001508
 
 各国各地区,#genre#
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-朝鲜中央电视台auto,https://tv.nknews.org/tvhls/stream.m3u8#https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l/chunklist.m3u8
-朝鲜中央电视台1080,https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l_1080p/chunklist.m3u8
 無線新聞台,http://192.168.3.1:4526/tvb/C
 Now新聞台,http://192.168.3.1:4526/now/332
 無線新聞台·海外版,http://192.168.3.1:4526/tvb/I-NEWS
@@ -1296,24 +1292,26 @@ Now新聞台,http://192.168.3.1:4526/now/332
 無綫新聞 NEVT2,http://192.168.3.1:4526/tvb/NEVT2
 RTHK33[853x480],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34[640x360],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+朝鲜中央电视台auto,https://tv.nknews.org/tvhls/stream.m3u8#https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l/chunklist.m3u8
+朝鲜中央电视台1080,https://1a-1791.com/live/r31jzt5k/slot-53/yblm-nm1l_1080p/chunklist.m3u8
 RT FRANCE[1280x720],http://69.64.57.208/rtfrance/playlist.m3u8
 RUSSIA TODAY[1280x720],http://69.64.57.208/russiatoday/playlist.m3u8
 俄罗斯RTNews,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄国斯红星电视台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 俄罗斯RTDoc,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 俄罗斯(中文),https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-阿联酋-Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
+乌克兰24news,http://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
+Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Fox新闻[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 德国DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
-Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-乌克兰24news,http://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
-日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+伊拉克Zagros ,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+阿联酋-Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
 泰国ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
 ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-伊拉克Zagros ,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
