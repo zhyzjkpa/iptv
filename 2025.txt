@@ -1290,9 +1290,9 @@ HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY APP CH1,https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
 HOY APP CH2,https://d238cgug17vwpr.cloudfront.net/ch2/live.m3u8
 HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-無線新聞台,http://192.168.3.1:4526/tvb/C
+無綫新聞台,http://192.168.3.1:4526/tvb/C
 Now新聞台,http://192.168.3.1:4526/now/332
-無線新聞台·海外版,http://192.168.3.1:4526/tvb/I-NEWS
+無綫新聞台·海外版,http://192.168.3.1:4526/tvb/I-NEWS
 無綫新聞 NEVT1,http://192.168.3.1:4526/tvb/NEVT1
 無綫新聞 NEVT2,http://192.168.3.1:4526/tvb/NEVT2
 港台電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
